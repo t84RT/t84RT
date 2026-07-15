@@ -41,9 +41,9 @@
 
 <div align="center">
 
-| [抖音] | [B站] | [CSDN] | [公众号] | [咨询] |
+| [抖音] | [B站] | [CSDN] | [公众号] | [咨询/小程序] |
 | :---: | :---: | :---: | :---: | :---: |
-| [实战视频](https://www.douyin.com/search/%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1) | [拆解实验室](https://space.bilibili.com/482117704/upload/video) | [技术归档](https://blog.csdn.net/weixin_45922157/category_13156014.html) | [深度笔记](https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ) | [联系小吴](https://mp.weixin.qq.com/a/qq_u9G_rGzM7hQ-) |
+| [实战视频](https://www.douyin.com/search/%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1) | [拆解实验室](https://space.bilibili.com/482117704/upload/video) | [技术归档](https://blog.csdn.net/weixin_45922157/category_13156014.html) | [深度笔记](https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ) | [微信搜索: 小吴同学](https://mp.weixin.qq.com/a/qq_u9G_rGzM7hQ-) |
 
 </div>
 
@@ -53,10 +53,13 @@
 
 ### 📉 开发者数据面板
 
-<img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&theme=light&hide_border=true&title_color=000000&icon_color=f1c40f&text_color=333333" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=333333" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&theme=light&hide_border=true&title_color=000000&icon_color=f1c40f&text_color=333333" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=333333" />
+</p>
 
-<br>
 <br>
 
 *“在工业现场与数字世界的交叉点，寻找极致效率。”*
