@@ -53,12 +53,15 @@
 
 ### 📉 开发者数据面板
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&theme=light&hide_border=true&title_color=000000&icon_color=f1c40f&text_color=333333" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=333333" />
-</p>
+<div align="center">
+  
+  <!-- 统计看板 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&theme=light&hide_border=true&title_color=000000&icon_color=f1c40f&text_color=333333" alt="t84RT's stats" />
+
+  <!-- 语言占比看板 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=333333" alt="t84RT's top langs" />
+
+</div>
 
 <br>
 
