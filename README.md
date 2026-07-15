@@ -31,9 +31,6 @@
 
 <div align="center">
 
-<!-- 使用 GitHub Profile Summary Cards 生成卡片组，视觉极佳且极为稳定 -->
-<!-- 采用极简科技蓝主题 -->
-
 <a href="https://github.com/t84RT">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t84RT&theme=github_dark&background=222222&border_color=009999" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t84RT&theme=github_dark&background=222222&border_color=009999" />
@@ -49,16 +46,11 @@
 
 ---
 
-## 🔗 官方矩阵 (Official Channels)
-
 <div align="center">
 
-| 平台 | 访问入口 |
-| :---: | :---: |
-| **实战视频** | [👉 抖音主页](https://www.douyin.com/search/%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1) |
-| **拆解空间** | [👉 B站主页](https://space.bilibili.com/482117704/upload/video) |
-| **技术归档** | [👉 CSDN 专栏](https://blog.csdn.net/weixin_45922157/category_13156014.html) |
-| **深度笔记** | [👉 微信公众号](https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ) |
+| [抖音] | [B站] | [CSDN] | [公众号] | [咨询/小程序] |
+| :---: | :---: | :---: | :---: | :---: |
+| [实战视频](https://www.douyin.com/search/%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1) | [拆解实验室](https://space.bilibili.com/482117704/upload/video) | [技术归档](https://blog.csdn.net/weixin_45922157/category_13156014.html) | [深度笔记](https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ) | [微信: 小吴同学电气设计](https://mp.weixin.qq.com/a/qq_u9G_rGzM7hQ-) |
 
 </div>
 
