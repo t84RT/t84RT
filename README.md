@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/电气设计-EPLAN/CAD-f1c40f?style=flat-square&logo=siemens&logoColor=black" />
-  <img src="https://img.shields.io/badge/固件开发-C/C++-f1c40f?style=flat-square&logo=espressif&logoColor=black" />
+  <img src="https://img.shields.io/badge/嵌入式开发-C/C++-f1c40f?style=flat-square&logo=espressif&logoColor=black" />
   <img src="https://img.shields.io/badge/网络安全-IoT/WiFi-f1c40f?style=flat-square&logo=securityscorecard&logoColor=black" />
   <img src="https://img.shields.io/badge/智能制造-Industrial_IIoT-f1c40f?style=flat-square&logo=arduino&logoColor=black" />
 </p>
