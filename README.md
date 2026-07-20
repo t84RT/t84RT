@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 顶部动态波浪横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:222222&height=200&section=header&text=Hello%20World%20!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=t84RT%20%2F%20%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6&descAlignY=60&descSize=20" width="100%" />
+<!-- 顶部动态波浪横幅（修改为直接显示大号名称） -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:222222&height=200&section=header&text=t84RT%20%2F%20%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
 <br>
 
