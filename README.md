@@ -80,7 +80,7 @@
   </a>
 </div>
 
-<!-- 🟢 保留了你截图里的“开发者可视化概览”三张卡，参数与截图中严格一致 -->
+<!-- 🟢 原有的三张核心数据卡片 (如果第三方服务限流导致此处出现 ERROR，请看下方备用卡片) -->
 <div align="center">
   <a href="https://github.com/t84RT">
     <!-- 左侧：贡献动态图 -->
@@ -94,9 +94,20 @@
 
 <br>
 
-<!-- 📈 动态图形化代码贡献活跃曲线 (配合极度炫酷的边框) -->
+<!-- 🟡 备用统计面板 (当上方 Vercel 服务限流产生 ERROR 报错时，此组卡片将稳定展示炫酷数据，防止页面留白) -->
+<div align="center">
+  <a href="https://github.com/t84RT">
+    <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&count_private=true&hide_border=true&theme=radical" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&hide_border=true&theme=radical" width="42%" />
+  </a>
+</div>
+
+<br>
+
+<!-- 📈 动态图形化代码贡献活跃曲线 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" />
+  <!-- 如果您觉得下面这行文字多余，直接删掉下面这一行 `<br><small>...</small>` 即可 -->
   <br>
   <small><i>动态趋势图，直观展示代码提交的时间活跃度</i></small>
 </div>
@@ -126,12 +137,38 @@
 
 <br>
 
+## 🚀 可以试试我开发的浏览器拓展：DataHarvest Pro
+
+<!-- 使用非常稳定的表格布局来防止 GitHub Markdown 解析出错导致乱码 -->
+<div align="center">
+  <a href="https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg?hl=zh-CN" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; color: inherit; border: 1px solid #e2e8f0; border-radius: 16px; padding: 15px 20px; margin: 0 auto 30px auto; max-width: 500px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); background: rgba(255, 255, 255, 0.4); text-align: left; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+    <table style="width: 100%; border: none;">
+      <tr>
+        <td style="width: 70px; vertical-align: middle; padding: 0; border: none;">
+          <div style="width: 60px; height: 60px; border-radius: 16px; background: linear-gradient(135deg, #3b82f6, #8b5cf6); display: table-cell; text-align: center; vertical-align: middle; color: #ffffff;">
+            <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 1-9 9m9-9a9 9 0 0 0-9-9m9 9H3m9 9a9 9 0 0 1-9-9m9 9c1.66 0 3-4.03 3-9s-1.34-9-3-9m0 18c-1.66 0-3-4.03-3-9s1.34-9 3-9"/></svg>
+          </div>
+        </td>
+        <td style="vertical-align: middle; padding-left: 15px; border: none;">
+          <div style="font-weight: 700; font-size: 1.15rem; color: #0f172a; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+            DataHarvest Pro
+            <span style="font-size: 0.7rem; background: #22c55e; color: #ffffff; padding: 0px 8px; border-radius: 12px; font-weight: 600;">v2.4.0</span>
+            <span style="font-size: 0.7rem; background: #0ea5e9; color: #ffffff; padding: 0px 8px; border-radius: 12px; font-weight: 600;">🟢 Live</span>
+          </div>
+          <div style="font-size: 0.8rem; color: #64748b; margin-top: 4px;">Category: Search Tools &nbsp;·&nbsp; Visibility: Public &nbsp;·&nbsp; Languages: English (United States)</div>
+          <div style="font-size: 0.8rem; color: #475569; margin-top: 6px; background: rgba(0,0,0,0.02); padding: 3px 10px; border-radius: 4px; display: inline-block;">浏览器端高级搜索与数据提取工具，赋能高效信息检索。</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
 ### 🧩 扫码关注生态
-<!-- 移除了狭窄的宽度限制，将图片直接放大到300px，确保扫码看全。 -->
+
 <div align="center">
   <p><i>长按识别下方二维码，无缝衔接我的技术与工具生态</i></p>
   
-  <!-- 微信公众号卡片 (去除了 width 限制，图片放大到 300px) -->
+  <!-- 微信公众号卡片 -->
   <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto 35px auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
     <h4>微信公众号</h4>
     <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">技术笔记与行业洞察</p>
@@ -140,7 +177,7 @@
 
   <br clear="both"/> <!-- 强制阻断排版，让上下互不干扰 -->
 
-  <!-- 微信小程序卡片 (去除了 width 限制，图片放大到 300px) -->
+  <!-- 微信小程序卡片 -->
   <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
     <h4>电气设计微信小程序</h4>
     <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">掌上实用工具与计算器</p>
