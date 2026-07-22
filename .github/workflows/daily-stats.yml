@@ -11,13 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
-    # 🌐 启动无头浏览器容器，支持 screenshot 网页截图插件
-    services:
-      puppeteer:
-        image: browserless/chrome
-        ports:
-          - 3000:3000
 
     steps:
       # ========== 第 1 步：生成 GitHub 极客综合指标面板 ==========
@@ -66,7 +59,8 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          commit_message: "📊 自动更新极客指标面板 [skip ci]"
+          # 🟢 修正：正确的提交日志参数名是 committer_message
+          committer_message: "📊 自动更新极客指标面板 [skip ci]"
 
       # ========== 第 2 步：截图抖音主页 ==========
       - name: 📸 截图抖音主页 (metrics_douyin.svg)
@@ -81,15 +75,13 @@ jobs:
           plugin_screenshot_url: "https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf"
           plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
-          plugin_screenshot_endpoint: ws://localhost:3000
           plugin_screenshot_viewport: |
             {
               "width": 1280,
-              "height": 800,
-              "deviceScaleFactor": 1
+              "height": 800
             }
           plugin_screenshot_wait: 6000
-          commit_message: "📸 截图抖音主页 [skip ci]"
+          committer_message: "📸 截图抖音主页 [skip ci]"
 
       # ========== 第 3 步：截图 B 站主页 ==========
       - name: 📸 截图 B 站主页 (metrics_bilibili.svg)
@@ -104,15 +96,13 @@ jobs:
           plugin_screenshot_url: "https://space.bilibili.com/482117704/upload/video"
           plugin_screenshot_selector: "#app"
           plugin_screenshot_background: yes
-          plugin_screenshot_endpoint: ws://localhost:3000
           plugin_screenshot_viewport: |
             {
               "width": 1280,
-              "height": 800,
-              "deviceScaleFactor": 1
+              "height": 800
             }
           plugin_screenshot_wait: 5000
-          commit_message: "📸 截图 B 站主页 [skip ci]"
+          committer_message: "📸 截图 B 站主页 [skip ci]"
 
       # ========== 第 4 步：截图 CSDN 博客 ==========
       - name: 📸 截图 CSDN 博客 (metrics_csdn.svg)
@@ -127,15 +117,13 @@ jobs:
           plugin_screenshot_url: "https://blog.csdn.net/weixin_45922157"
           plugin_screenshot_selector: "main"
           plugin_screenshot_background: yes
-          plugin_screenshot_endpoint: ws://localhost:3000
           plugin_screenshot_viewport: |
             {
               "width": 1280,
-              "height": 800,
-              "deviceScaleFactor": 1
+              "height": 800
             }
           plugin_screenshot_wait: 5000
-          commit_message: "📸 截图 CSDN 博客 [skip ci]"
+          committer_message: "📸 截图 CSDN 博客 [skip ci]"
 
       # ========== 第 5 步：截图公众号及全网索引 ==========
       - name: 📸 截图公众号与全网索引 (metrics_wechat.svg)
@@ -150,12 +138,10 @@ jobs:
           plugin_screenshot_url: "https://cn.bing.com/search?q=%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1"
           plugin_screenshot_selector: "#b_results"
           plugin_screenshot_background: yes
-          plugin_screenshot_endpoint: ws://localhost:3000
           plugin_screenshot_viewport: |
             {
               "width": 1280,
-              "height": 800,
-              "deviceScaleFactor": 1
+              "height": 800
             }
           plugin_screenshot_wait: 4000
-          commit_message: "📸 截图公众号与全网索引 [skip ci]"
+          committer_message: "📸 截图公众号与全网索引 [skip ci]"
