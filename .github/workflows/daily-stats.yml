@@ -1,0 +1,54 @@
+name: 生成极客炫酷双语指标图
+
+on:
+  schedule:
+    # 设定每天北京时间凌晨 2:00 自动更新
+    - cron: "0 18 * * *"
+  workflow_dispatch: # 允许你在网页端随时手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 生成 Metrics 极客大图
+        uses: lowlighter/metrics@latest
+        with:
+          # 输出的图片文件名 (非常重要，后面引用会用到)
+          filename: metrics.svg 
+          
+          # 你的 GitHub 用户名
+          user: t84RT 
+          
+          # 💡 秘钥变量 (稍后设置，下面只需原封不动复制)
+          token: ${{ secrets.METRICS_TOKEN }} 
+          
+          # ---------- 全局视觉与语言配置 ----------
+          config_timezone: "Asia/Shanghai"          # 时区设为北京时间
+          config_locale: "zh-CN"                    # 🔥 核心：界面全部强制转为简体中文
+          config_display: "large"                   # 生成宽幅大屏展示面板
+          config_skin: "dark"                       # 极致暗黑科技风皮肤
+          
+          # ---------- 1. 编程语言雷达图（含字节占比） ----------
+          plugin_languages: yes
+          plugin_languages_ignored: "HTML, CSS"     # 过滤掉网页基础语言，凸显你的硬核语言
+          plugin_languages_details: "bytes-size, percentage"
+          
+          # ---------- 2. 极客时间习惯（7天活跃折线图） ----------
+          plugin_habits: yes
+          plugin_habits_days: 7
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes                 # 开启动态折线图
+          
+          # ---------- 3. 年度贡献热力日历图 ----------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # ---------- 4. 项目跟随贡献占比 ----------
+          plugin_followup: yes
+          plugin_followup_sections: repositories, commits
+          
+          # ---------- 5. 星标收藏成就 ----------
+          plugin_stars: yes
+          plugin_stars_limit: 2
