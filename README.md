@@ -80,6 +80,12 @@
   </a>
 </div>
 
+<!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
+<div align="center">
+  <img src="metrics.svg" alt="极客指标面板" width="100%" />
+  <br><br>
+</div>
+
 <!-- 🟢 原有的三张核心数据卡片 (如果第三方服务限流导致此处出现 ERROR，请看下方备用卡片) -->
 <div align="center">
   <a href="https://github.com/t84RT">
@@ -109,7 +115,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" />
   <!-- 如果您觉得下面这行文字多余，直接删掉下面这一行 `<br><small>...</small>` 即可 -->
   <br>
-  <small><i>动态趋势图，直观展示代码提交的时间活跃度</i></small>
+  <small><i> </i></small>
 </div>
 
 <br>
