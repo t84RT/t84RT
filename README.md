@@ -75,9 +75,10 @@
 ## 🏆 极客荣誉 & 📊 开发者可视化概览
 
 <div align="center">
-  <a href="https://github.com/t84RT">
-    <img src="https://github-profile-trophy.vercel.app/?username=t84RT&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <!-- 使用 stable 链接 + column=4 避免布局问题 -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=t84RT&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+  </p>
 </div>
 
 <!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
@@ -113,9 +114,8 @@
 <!-- 📈 动态图形化代码贡献活跃曲线 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" />
-  <!-- 如果您觉得下面这行文字多余，直接删掉下面这一行 `<br><small>...</small>` 即可 -->
   <br>
-  <small><i> </i></small>
+  <small><i>动态趋势图，直观展示代码提交的时间活跃度</i></small>
 </div>
 
 <br>
@@ -132,11 +132,10 @@
 <div align="center">
   <table style="border: 1px solid #d1d5da; background-color: #f6f8fa; border-radius: 8px; width: 85%;">
     <tr>
-      <td align="center" width="20%"><b>🐦 抖音实战</b><br><span style="font-size: 12px; color: #666;">现场实操与故障分析</span><br><a href="https://www.douyin.com/search/%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1">@小吴同学电气设计</a></td>
-      <td align="center" width="20%"><b>📺 B站拆解</b><br><span style="font-size: 12px; color: #666;">硬件与固件深度解析</span><br><a href="https://space.bilibili.com/482117704/upload/video">点击进入主页</a></td>
-      <td align="center" width="20%"><b>📝 CSDN归档</b><br><span style="font-size: 12px; color: #666;">图文笔记与实操手册</span><br><a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">技术博客合集</a></td>
-      <td align="center" width="20%"><b>📱 微信小程序</b><br><span style="font-size: 12px; color: #666;">掌上工业计算器与工具</span><br><a href="https://mp.weixin.qq.com/a/qq_u9G_rGzM7hQ-">小吴同学电气设计工具</a></td>
-      <td align="center" width="20%"><b>💬 公众号</b><br><span style="font-size: 12px; color: #666;">行业洞察与技术更新</span><br><a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">微信搜索关注</a></td>
+      <td align="center" width="25%"><b>🐦 抖音实战</b><br><span style="font-size: 12px; color: #666;">现场实操与故障分析</span><br><a href="https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894">@小吴同学电气设计</a></td>
+      <td align="center" width="25%"><b>📺 B站拆解</b><br><span style="font-size: 12px; color: #666;">硬件与固件深度解析</span><br><a href="https://space.bilibili.com/482117704/upload/video">点击进入主页</a></td>
+      <td align="center" width="25%"><b>📝 CSDN归档</b><br><span style="font-size: 12px; color: #666;">图文笔记与实操手册</span><br><a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">技术博客合集</a></td>
+      <td align="center" width="25%"><b>💬 公众号</b><br><span style="font-size: 12px; color: #666;">行业洞察与技术更新</span><br><a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">微信搜索关注</a></td>
     </tr>
   </table>
 </div>
@@ -172,7 +171,7 @@
 ### 🧩 扫码关注生态
 
 <div align="center">
-  <p><i>长按识别下方二维码，无缝衔接我的技术与工具生态</i></p>
+  <p><i>长按识别下方二维码，获取更多技术干货与实用工具</i></p>
   
   <!-- 微信公众号卡片 -->
   <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto 35px auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
