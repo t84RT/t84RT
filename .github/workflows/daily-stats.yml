@@ -2,9 +2,9 @@ name: 生成极客炫酷双语指标图
 
 on:
   schedule:
-    # 设定每天北京时间凌晨 2:00 自动更新
-    - cron: "0 18 * * *"
-  workflow_dispatch: # 允许你在网页端随时手动点击运行
+    # 每天北京时间凌晨 4:00 自动更新
+    - cron: "0 20 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,43 +12,38 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 生成 Metrics 极客大图
+      - name: 生成极客指标面板
         uses: lowlighter/metrics@latest
         with:
-          # 输出的图片文件名 (非常重要，后面引用会用到)
-          filename: metrics.svg 
+          filename: metrics.svg # 输出的文件名，必须和 README 里引用的一致
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: t84RT
           
-          # 你的 GitHub 用户名
-          user: t84RT 
+          # ---------- 🎨 全局视觉设定 ----------
+          config_timezone: "Asia/Shanghai"       # 北京时间
+          config_locale: "zh-CN"                 # 极客面板全中英双语显示
+          config_display: "large"                # 宽幅大屏排版
+          config_skin: "dark"                    # 采用极致暗黑主题(非常酷炫)
           
-          # 💡 秘钥变量 (稍后设置，下面只需原封不动复制)
-          token: ${{ secrets.METRICS_TOKEN }} 
-          
-          # ---------- 全局视觉与语言配置 ----------
-          config_timezone: "Asia/Shanghai"          # 时区设为北京时间
-          config_locale: "zh-CN"                    # 🔥 核心：界面全部强制转为简体中文
-          config_display: "large"                   # 生成宽幅大屏展示面板
-          config_skin: "dark"                       # 极致暗黑科技风皮肤
-          
-          # ---------- 1. 编程语言雷达图（含字节占比） ----------
+          # ---------- 📊 核心雷达图(语言) ----------
           plugin_languages: yes
-          plugin_languages_ignored: "HTML, CSS"     # 过滤掉网页基础语言，凸显你的硬核语言
+          plugin_languages_ignored: "HTML, CSS"
           plugin_languages_details: "bytes-size, percentage"
           
-          # ---------- 2. 极客时间习惯（7天活跃折线图） ----------
+          # ---------- 📈 实时提交动态(热力图) ----------
           plugin_habits: yes
           plugin_habits_days: 7
           plugin_habits_facts: yes
-          plugin_habits_charts: yes                 # 开启动态折线图
+          plugin_habits_charts: yes
           
-          # ---------- 3. 年度贡献热力日历图 ----------
+          # ---------- 🗓️ 一整年绿色十字格贡献图 ----------
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # ---------- 4. 项目跟随贡献占比 ----------
+          # ---------- ⭐ 项目贡献占比 ----------
           plugin_followup: yes
           plugin_followup_sections: repositories, commits
           
-          # ---------- 5. 星标收藏成就 ----------
+          # ---------- 🏆 成就勋章 ----------
           plugin_stars: yes
           plugin_stars_limit: 2
