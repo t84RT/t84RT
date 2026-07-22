@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 顶部动态波浪横幅（修改为直接显示大号名称） -->
+<!-- 顶部动态波浪横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:222222&height=200&section=header&text=t84RT%20%2F%20%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
 <br>
 
-<!-- ✨ 动态打字效果头像 & 简介 -->
+<!-- ✨ 动态打字效果 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=009999&center=true&vCenter=true&width=435&lines=%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96+%E2%9C%96+%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%9E%81%E5%AE%A2;IoT+%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%80%85;%22%E4%BB%8E%E7%8E%B0%E5%9C%BA%E5%9B%BE%E7%BA%B8%E5%88%B0%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%22" alt="Typing SVG" />
 </a>
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<!-- ⚙️ 技术能力徽标体系（全量详细） -->
+<!-- ⚙️ 技术能力徽标体系 -->
 <div>
   <h4>⚙️ 硬件与控制</h4>
   <img src="https://img.shields.io/badge/电气设计-EPLAN%2FCAD-blue?style=for-the-badge&logo=siemens&logoColor=white" />
@@ -64,7 +64,7 @@
 
 ## 🚀 极客实验室与实战愿景规划
 
-*   ⚡ **工业现场实战映射**：深入一线车间和现场，解决“设备为什么突然停机”的核心痛点。能够将现场设备的物理运行逻辑与数字化的代码进行精准对齐和映射。
+*   ⚡ **工业现场实战映射**：深入一线车间和现场，解决"设备为什么突然停机"的核心痛点。能够将现场设备的物理运行逻辑与数字化的代码进行精准对齐和映射。
 *   👾 **硬件底层深度拆解**：不满足于应用层开发，热衷于探索 MCU 内部逻辑，拆解工业设备的硬件交互原理。具备通过硬件调试接口（JTAG/SWD）进行底层交互与部分逆向分析的能力。
 *   🛡️ **安全防御护城河**：面对日益严重的物联网安全威胁，基于严格的无线协议和工业协议（如 Modbus TCP/RTU）研究，主动挖掘风险点，构建安全、可靠的边缘侧通信链路。
 *   📂 **拒绝重复造轮子**：将枯燥繁琐的现场经验和反复调试的代码沉淀为自动化工具。通过自主开发的上位机和小工具，大幅提升团队工程效率，解放人力。
@@ -72,14 +72,7 @@
 
 <br>
 
-## 🏆 极客荣誉 & 📊 开发者可视化概览
-
-<div align="center">
-  <!-- 使用 stable 链接 + column=4 避免布局问题 -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=t84RT&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-  </p>
-</div>
+## 📊 开发者可视化概览
 
 <!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
 <div align="center">
@@ -87,21 +80,18 @@
   <br><br>
 </div>
 
-<!-- 🟢 原有的三张核心数据卡片 (如果第三方服务限流导致此处出现 ERROR，请看下方备用卡片) -->
+<!-- 🟢 三张核心数据卡片 -->
 <div align="center">
   <a href="https://github.com/t84RT">
-    <!-- 左侧：贡献动态图 -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t84RT&theme=github_dark&border_color=009999" width="32%" />
-    <!-- 中间：核心数据 -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t84RT&theme=github_dark&border_color=009999" width="32%" />
-    <!-- 右侧：语言占比环图 -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t84RT&theme=github_dark&border_color=009999" width="32%" />
   </a>
 </div>
 
 <br>
 
-<!-- 🟡 备用统计面板 (当上方 Vercel 服务限流产生 ERROR 报错时，此组卡片将稳定展示炫酷数据，防止页面留白) -->
+<!-- 🟡 备用统计面板 -->
 <div align="center">
   <a href="https://github.com/t84RT">
     <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&count_private=true&hide_border=true&theme=radical" width="45%" />
@@ -111,7 +101,7 @@
 
 <br>
 
-<!-- 📈 动态图形化代码贡献活跃曲线 -->
+<!-- 📈 贡献活跃曲线 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" />
   <br>
@@ -121,7 +111,7 @@
 <br>
 <br>
 
-<!-- 彩虹渐变色动态分割线 -->
+<!-- 彩虹渐变色分割线 -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 <br>
 
@@ -142,9 +132,37 @@
 
 <br>
 
+## 📸 我的技术生态截图
+
+<div align="center">
+  <table style="border: 1px solid #d1d5da; background-color: #f6f8fa; border-radius: 8px; width: 95%;">
+    <tr>
+      <td align="center" width="25%">
+        <b>🐦 抖音主页</b><br>
+        <img src="metrics_douyin.svg" width="95%" alt="抖音主页截图" />
+      </td>
+      <td align="center" width="25%">
+        <b>📺 B站主页</b><br>
+        <img src="metrics_bilibili.svg" width="95%" alt="B站主页截图" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <b>📝 CSDN博客</b><br>
+        <img src="metrics_csdn.svg" width="95%" alt="CSDN博客截图" />
+      </td>
+      <td align="center" width="25%">
+        <b>💬 公众号文章</b><br>
+        <img src="metrics_wechat.svg" width="95%" alt="公众号文章截图" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ## 🚀 可以试试我开发的浏览器拓展：DataHarvest Pro
 
-<!-- 使用非常稳定的表格布局来防止 GitHub Markdown 解析出错导致乱码 -->
 <div align="center">
   <a href="https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg?hl=zh-CN" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; color: inherit; border: 1px solid #e2e8f0; border-radius: 16px; padding: 15px 20px; margin: 0 auto 30px auto; max-width: 500px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); background: rgba(255, 255, 255, 0.4); text-align: left; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
     <table style="width: 100%; border: none;">
@@ -180,7 +198,7 @@
     <img src="./推广.png" width="300" alt="微信公众号" />
   </div>
 
-  <br clear="both"/> <!-- 强制阻断排版，让上下互不干扰 -->
+  <br clear="both"/>
 
   <!-- 微信小程序卡片 -->
   <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
@@ -196,7 +214,7 @@
 
 <div align="center">
   
-  *“在工业现场与数字世界的交叉点，寻找极致效率。”*
+  *"在工业现场与数字世界的交叉点，寻找极致效率。"*
   
   📧 **技术交流 / 商业合作：** [xiaowu112899@outlook.com](mailto:xiaowu112899@outlook.com)
 
