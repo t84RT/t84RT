@@ -194,8 +194,8 @@
         <img src="metrics_csdn.svg" width="95%" alt="CSDN博客截图" />
       </td>
       <td align="center" width="50%">
-        <b>💬 公众号文章</b><br>
-        <img src="metrics_wechat.svg" width="95%" alt="公众号文章截图" />
+        <b>💬 公众号与全网索引</b><br>
+        <img src="metrics_wechat.svg" width="95%" alt="公众号与全网索引截图" />
       </td>
     </tr>
   </table>
