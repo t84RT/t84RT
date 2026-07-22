@@ -59,7 +59,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          # 🟢 修正：正确的提交日志参数名是 committer_message
           committer_message: "📊 自动更新极客指标面板 [skip ci]"
 
       # ========== 第 2 步：截图抖音主页 ==========
@@ -104,7 +103,7 @@ jobs:
           plugin_screenshot_wait: 5000
           committer_message: "📸 截图 B 站主页 [skip ci]"
 
-      # ========== 第 4 步：截图 CSDN 博客 ==========
+      # ========== 第 4 步：截图 CSDN 博客（已优化渲染等待） ==========
       - name: 📸 截图 CSDN 博客 (metrics_csdn.svg)
         uses: lowlighter/metrics@latest
         with:
@@ -115,17 +114,17 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: "CSDN 博客 - 技术博客合集"
           plugin_screenshot_url: "https://blog.csdn.net/weixin_45922157"
-          plugin_screenshot_selector: "main"
+          plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
           plugin_screenshot_viewport: |
             {
               "width": 1280,
               "height": 800
             }
-          plugin_screenshot_wait: 5000
+          plugin_screenshot_wait: 8000
           committer_message: "📸 截图 CSDN 博客 [skip ci]"
 
-      # ========== 第 5 步：截图公众号及全网索引 ==========
+      # ========== 第 5 步：截图全网索引（已优化选择器） ==========
       - name: 📸 截图公众号与全网索引 (metrics_wechat.svg)
         uses: lowlighter/metrics@latest
         with:
@@ -136,12 +135,12 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: "公众号与全网品牌 - 小吴同学电气设计"
           plugin_screenshot_url: "https://cn.bing.com/search?q=%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1"
-          plugin_screenshot_selector: "#b_results"
+          plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
           plugin_screenshot_viewport: |
             {
               "width": 1280,
               "height": 800
             }
-          plugin_screenshot_wait: 4000
+          plugin_screenshot_wait: 6000
           committer_message: "📸 截图公众号与全网索引 [skip ci]"
