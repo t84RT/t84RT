@@ -85,7 +85,7 @@ jobs:
           config_display: "large"
           plugin_screenshot: yes
           plugin_screenshot_title: "抖音主页 - 小吴同学电气设计"
-          plugin_screenshot_url: "https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894"
+          plugin_screenshot_url: "https://www.douyin.com/note/7628224711437032566"
           plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
           plugin_screenshot_viewport: |
@@ -129,7 +129,7 @@ jobs:
           config_display: "large"
           plugin_screenshot: yes
           plugin_screenshot_title: "CSDN博客 - 技术博客合集"
-          plugin_screenshot_url: "https://blog.csdn.net/weixin_45922157/category_13156014.html"
+          plugin_screenshot_url: "https://blog.csdn.net/weixin_45922157"
           plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
           plugin_screenshot_viewport: |
@@ -151,7 +151,7 @@ jobs:
           config_display: "large"
           plugin_screenshot: yes
           plugin_screenshot_title: "公众号文章 - 行业洞察与技术更新"
-          plugin_screenshot_url: "https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ"
+          plugin_screenshot_url: "https://www.google.com.hk/search?q=%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1&sca_esv=83e64d13dadc637d&sxsrf=APpeQnsvQ8V7lZci8t-sS8lXdpVRBcY11g%3A1784720755617&source=hp&ei=c61gapSBI7zX1e8Pw_TOwA0&iflsig=ABILxe8AAAAAamC7g93DB70IrLqFxgyxl-80JCY6slNZ&ved=0ahUKEwjUhqP1muaVAxW8a_UHHUO6E9gQ4dUDCCk&uact=5&oq=%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1&gs_lp=Egdnd3Mtd2l6IhjlsI_lkLTlkIzlrabnlLXmsJTorr7orqEyBRAAGO8FMggQABiABBiiBEibFVCRA1iRA3ABeACQAQCYAdIBoAHSAaoBAzItMbgBA8gBAPgBAvgBAZgCAqAC3AGoAgrCAgcQIxjqAhgnmAMH8QVtvzzHpowTi5IHBTEuMC4xoAdysgcDMi0xuAfUAcIHBTEuMC4xyAcGgAgB&sclient=gws-wiz"
           plugin_screenshot_selector: "body"
           plugin_screenshot_background: yes
           plugin_screenshot_viewport: |
