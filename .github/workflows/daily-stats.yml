@@ -21,21 +21,19 @@ jobs:
           user: t84RT
 
           # =========================================================
-          # 1. 样式与主题 (Theme & Global Options)
+          # 1. 基础全局配置与时区
           # =========================================================
           config_timezone: "Asia/Shanghai"
-          config_locale: "zh-CN"
           config_display: "large"
-          config_skin: "dark"                 # 极客暗黑主题
           config_padding: 0, 8%
 
           # =========================================================
-          # 2. 核心数据与基础统计 (Base Statistics)
+          # 2. 基础数据 Header & 统计
           # =========================================================
           base: "header, activity, community, repositories, metadata"
 
           # =========================================================
-          # 3. 语言占比雷达 (Languages Radar - 快速版)
+          # 3. 语言占比雷达 (Languages Radar)
           # =========================================================
           plugin_languages: yes
           plugin_languages_ignored: "html, css, tex"
@@ -44,7 +42,7 @@ jobs:
           plugin_languages_limit: 8
 
           # =========================================================
-          # 4. 编码作息与频率习惯 (Coding Habits)
+          # 4. 编码作息与频率习惯柱状图 (Coding Habits)
           # =========================================================
           plugin_habits: yes
           plugin_habits_days: 14
@@ -59,21 +57,13 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           # =========================================================
-          # 6. 极客成就徽章墙 (Achievements & Secrets)
-          # =========================================================
-          plugin_achievements: yes
-          plugin_achievements_threshold: "B"
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-
-          # =========================================================
-          # 7. 项目贡献与 Follow 占比 (Followup)
+          # 6. 项目贡献与 Follow 占比 (Followup)
           # =========================================================
           plugin_followup: yes
           plugin_followup_sections: repositories, commits
 
           # =========================================================
-          # 8. 技术 Stack 图标拓扑 (Topics Icons)
+          # 7. 技术 Stack 图标拓扑 (Topics Icons)
           # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -81,27 +71,34 @@ jobs:
           plugin_topics_mode: icons
 
           # =========================================================
-          # 9. 精选/高赞仓库卡片 (Stars Showcase)
+          # 8. 精选/高赞仓库卡片 (Stars Showcase)
           # =========================================================
           plugin_stars: yes
           plugin_stars_limit: 4
 
           # =========================================================
-          # 10. 实时 Activity 动态 (Recent Activity)
+          # 9. 精选项目与固定仓库 (Featured Repositories)
           # =========================================================
-          plugin_activity: yes
-          plugin_activity_days: 7
-          plugin_activity_limit: 5
-          plugin_activity_filter: "all"
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
 
           # =========================================================
-          # 11. 代码片段与 Gist 展示 (Gists)
+          # 10. Star 列表与收藏库 (Starlists)
           # =========================================================
-          plugin_gists: yes                  # 快速展现代码片段/Gist
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
 
           # =========================================================
-          # 12. 极客运势/随机代码风 (Fortune)
+          # 11. 社区讨论参与度 (Discussions)
           # =========================================================
-          plugin_fortune: yes                # 增加底部极客名言/运势终端
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+
+          # =========================================================
+          # 12. 开发者 License 协议占比 (Licenses Ratio)
+          # =========================================================
+          plugin_licenses: yes
+          plugin_licenses_setup: yes
+          plugin_licenses_ratio: yes
 
           committer_message: "📊 自动更新全套极客指标面板 [skip ci]"
