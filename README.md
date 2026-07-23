@@ -4,36 +4,11 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "小吴同学电气设计",
-  "alternateName": ["t84RT", "小吴同学", "t84RT.github.io"],
-  "url": "https://t84RT.github.io",
-  "mainEntityOfPage": "https://github.com/t84RT",
-  "email": "xiaowu112899@outlook.com",
-  "jobTitle": "电气自动化工程师 / 嵌入式开发者 / 网络安全爱好者",
-  "description": "小吴同学电气设计（t84RT）个人技术主页。专注于工业自动化控制（PLC梯形图/ST语言）、嵌入式系统（STM32/ESP32/BW16）、上位机与Edge插件DataHarvest Pro开发。",
-  "knowsAbout": [
-    "工业自动化控制", "PLC 梯形图", "ST 语言", "西门子 PLC 编程", "欧姆龙 PLC 编程", "汇川 PLC 编程", "主流的PLC 编程",
-    "STM32 嵌入式开发", "ESP32 / ESP8266 物联网", "BW16 双频 Wi-Fi/BLE",
-    "IoT 侧网络安全", "DataHarvest Pro", "Python/C# 上位机开发", "海康 VisionMaster"
+  "alternateName": [
+    "t84RT",
+    "小吴同学",
+    "t84RT.github.io"
   ],
-  "sameAs": [
-    "https://t84RT.github.io",
-    "https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf",
-    "https://space.bilibili.com/482117704",
-    "https://blog.csdn.net/weixin_45922157",
-    "https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ",
-    "https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg"
-  ]
-}
-</script>
--->
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "小吴同学电气设计",
-  "alternateName": ["t84RT", "小吴同学", "t84RT.github.io"],
   "url": "https://t84RT.github.io",
   "mainEntityOfPage": "https://github.com/t84RT",
   "email": "xiaowu112899@outlook.com",
