@@ -26,54 +26,25 @@
 
 </div>
 
----
-
 <br>
 
-## ⚙️ 技能树与技术能力徽标体系
-
+<!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
 <div align="center">
-
-### 🛠️ 硬件与控制
-<img src="https://img.shields.io/badge/电气设计-EPLAN%2FCAD-blue?style=for-the-badge&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/PLC_梯形图-工业自动化-blue?style=for-the-badge&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/嵌入式系统-STM32%20ARM-0088cc?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-
-<br>
-
-### 📶 无线与物联网
-<img src="https://img.shields.io/badge/IoT平台-ESP32%2F8266-orange?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/双频无线-BW16%20(RTL8720)-orange?style=for-the-badge&logo=codesandbox&logoColor=white" />
-<img src="https://img.shields.io/badge/协议分析-MQTT%2FModbus%2FZigbee-yellow?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-<br>
-
-### 💻 开发语言与安全
-<img src="https://img.shields.io/badge/底层开发-C%2FC++-009999?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/上位机/脚本-Python%2FC%23-009999?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT安全-流量抓取%2F攻击面分析-cc0000?style=for-the-badge&logo=security&logoColor=white" />
-
+  <img src="metrics.svg" alt="极客指标面板" width="100%" />
+  <br><br>
 </div>
 
-<br>
+## 🚀 工具与作品集
 
-## 🔥 详实的核心技术栈与能力矩阵
+### 🧩 我开发的微信小程序：小吴同学电气设计工具
+<div align="center">
+  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
+    <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">掌上实用工具与计算器</p>
+    <img src="./小程序码.png" width="300" alt="微信小程序码" />
+  </div>
+</div>
 
-> **既懂现场工业设备，又懂底层嵌入式驱动，同时具备上层网络安全思维的全栈复合型极客。**
-
-| 专业领域 | 核心技术栈与能力深度描述 |
-| :--- | :--- |
-| **⚡ 工业自动化与控制** | 精通 **PLC** 体系架构，熟练使用梯形图、ST 语言进行控制逻辑开发；具备丰富的现场设备故障排查与深度挖掘能力；擅长将复杂的电气图纸逻辑转换为高效的控制代码。 |
-| **⚙️ 嵌入式底层与驱动** | 基于 **STM32** 系列 MCU 进行裸机与 RTOS（FreeRTOS/RT-Thread）的底层开发；独立完成硬件驱动（I2C, SPI, UART, CAN等）编写、外设调试与信号优化；了解固件逆向分析思路。 |
-| **📶 无线通信与IoT网络** | 深入掌握 **ESP32 / ESP8266** 生态开发；同时精通基于 **BW16 (RTL8720)** 的双频 Wi-Fi 与 BLE 通信；具备无线链路质量分析与协议栈底层调试能力。 |
-| **🛡️ 工业物联网安全** | 聚焦边缘计算侧的安全防护。擅长工业无线流量抓取与 Wi-Fi 协议攻击面分析；能针对工业物联网设备提出有效的安全加固方案和风险规避策略。 |
-| **🛠️ 工程工具链与开发** | 熟练使用 **Python** 和 **C#** 进行工程级自动化脚本开发、上位机工具设计与数据可视化；掌握 Git 版本管理与团队协同开发，具备闭环工程交付能力。 |
-
-<br>
-
-## 🚀 极客工具与实战作品集
-
-### 🧩 推荐拓展：DataHarvest Pro
+### 🧩 我开发的拓展_助力资料搜索：DataHarvest Pro
 
 <div align="center">
   <a href="https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg?hl=zh-CN" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; color: inherit; border: 1px solid #e2e8f0; border-radius: 16px; padding: 15px 20px; margin: 0 auto 20px auto; max-width: 520px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); background: rgba(255, 255, 255, 0.4); text-align: left;">
@@ -98,37 +69,14 @@
   </a>
 </div>
 
+<!-- 彩虹渐变色分割线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line" />
 <br>
 
-## 📊 开发者可视化概览与 GitHub 状态
-
-<!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
-<div align="center">
-  <img src="metrics.svg" alt="极客指标面板" width="100%" />
-  <br><br>
-</div>
-
-<!-- 🟢 三张核心数据卡片 -->
-<div align="center">
-  <a href="https://github.com/t84RT">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t84RT&theme=github_dark&border_color=009999" width="32%" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t84RT&theme=github_dark&border_color=009999" width="32%" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t84RT&theme=github_dark&border_color=009999" width="32%" alt="Repos per Language" />
-  </a>
-</div>
-
 <br>
-
-<!-- 🟡 备用统计面板与连续提交统计 -->
-<div align="center">
-  <a href="https://github.com/t84RT">
-    <img src="https://github-readme-stats.vercel.app/api?username=t84RT&show_icons=true&count_private=true&hide_border=true&theme=radical" width="45%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t84RT&layout=compact&hide_border=true&theme=radical" width="42%" alt="Top Languages" />
-  </a>
-  <br><br>
   <!-- 外部拓展：GitHub 连续提交 Streak 统计 -->
   <a href="https://github.com/t84RT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t84RT&theme=dark&background=1e2022&border=009999&stroke=009999&ring=009999&fire=009999&currStreakNum=ffffff" width="88%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t84RT&theme=dark&background=1e2022&border=009999&stroke=009999&ring=009999&fire=009999&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -137,8 +85,6 @@
 <!-- 📈 贡献活跃曲线 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  <br>
-  <small><i>动态趋势图，直观展示代码提交的时间活跃度</i></small>
 </div>
 
 <br>
@@ -162,43 +108,22 @@
 > **在这里，可以第一时间获得技术干货、设备拆解视频以及我开发的实战小工具。**
 
 <div align="center">
-  <table style="border: 1px solid #d1d5da; background-color: #f6f8fa; border-radius: 8px; width: 90%;">
-    <tr>
-      <td align="center" width="25%"><b>🐦 抖音实战</b><br><span style="font-size: 12px; color: #666;">现场实操与故障分析</span><br><a href="https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894">@小吴同学电气设计</a></td>
-      <td align="center" width="25%"><b>📺 B站拆解</b><br><span style="font-size: 12px; color: #666;">硬件与固件深度解析</span><br><a href="https://space.bilibili.com/482117704/upload/video">点击进入主页</a></td>
-      <td align="center" width="25%"><b>📝 CSDN归档</b><br><span style="font-size: 12px; color: #666;">图文笔记与实操手册</span><br><a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">技术博客合集</a></td>
-      <td align="center" width="25%"><b>💬 公众号</b><br><span style="font-size: 12px; color: #666;">行业洞察与技术更新</span><br><a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">微信搜索关注</a></td>
-    </tr>
-  </table>
-</div>
 
-<br>
+<p align="center">
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894">
+    <img src="https://img.shields.io/badge/抖音实战-@小吴同学电气设计-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/482117704/upload/video">
+    <img src="https://img.shields.io/badge/B站拆解-硬件与固件解析-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">
+    <img src="https://img.shields.io/badge/CSDN博客-技术笔记合集-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+  <a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">
+    <img src="https://img.shields.io/badge/微信公众号-小吴同学电气设计-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+</p>
 
-### 📸 我的技术生态截图
-
-<div align="center">
-  <table style="border: 1px solid #d1d5da; background-color: #f6f8fa; border-radius: 8px; width: 95%;">
-    <tr>
-      <td align="center" width="50%">
-        <b>🐦 抖音主页</b><br>
-        <img src="metrics_douyin.svg" width="95%" alt="抖音主页截图" />
-      </td>
-      <td align="center" width="50%">
-        <b>📺 B站主页</b><br>
-        <img src="metrics_bilibili.svg" width="95%" alt="B站主页截图" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <b>📝 CSDN博客</b><br>
-        <img src="metrics_csdn.svg" width="95%" alt="CSDN博客截图" />
-      </td>
-      <td align="center" width="50%">
-        <b>💬 公众号与全网索引</b><br>
-        <img src="metrics_wechat.svg" width="95%" alt="公众号与全网索引截图" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br>
@@ -213,18 +138,11 @@
   <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto 35px auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
     <h4>微信公众号</h4>
     <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">技术笔记与行业洞察</p>
-    <img src="./推广.png" width="300" alt="微信公众号" />
+    <img src="./公众号.png" width="400" alt="微信公众号" />
   </div>
 
   <br clear="both"/>
-
-  <!-- 微信小程序卡片 -->
-  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
-    <h4>电气设计微信小程序</h4>
-    <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">掌上实用工具与计算器</p>
-    <img src="./小程序码.png" width="300" alt="微信小程序码" />
-  </div>
-
+  
 </div>
 
 <br>
@@ -232,13 +150,13 @@
 ---
 
 <div align="center">
-  
+
   *"在工业现场与数字世界的交叉点，寻找极致效率。"*
-  
+
   📧 **技术交流 / 商业合作：** [xiaowu112899@outlook.com](mailto:xiaowu112899@outlook.com)
 
   <br>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:222222&height=120&section=footer" width="100%" />
-  
+
 </div>
