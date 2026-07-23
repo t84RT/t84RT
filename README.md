@@ -31,23 +31,27 @@
 <!-- 🟢 自动生成的极客双语指标面板（每日更新） -->
 <div align="center">
   <img src="metrics.svg" alt="极客指标面板" width="100%" />
-  <br><br>
 </div>
+
+<br>
 
 ## 🚀 工具与作品集
 
 ### 🧩 我开发的微信小程序：小吴同学电气设计工具
+
 <div align="center">
-  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
-    <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">掌上实用工具与计算器</p>
-    <img src="./小程序码.png" width="300" alt="微信小程序码" />
+  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 20px; max-width: 380px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
+    <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0; font-weight: 600;">掌上实用工具与计算器</p>
+    <img src="./小程序码.png" width="280" alt="微信小程序码" style="border-radius: 8px;" />
   </div>
 </div>
+
+<br>
 
 ### 🧩 我开发的拓展_助力资料搜索：DataHarvest Pro
 
 <div align="center">
-  <a href="https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg?hl=zh-CN" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; color: inherit; border: 1px solid #e2e8f0; border-radius: 16px; padding: 15px 20px; margin: 0 auto 20px auto; max-width: 520px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); background: rgba(255, 255, 255, 0.4); text-align: left;">
+  <a href="https://microsoftedge.microsoft.com/addons/detail/dataharvest-pro/pcadlhfgnoiphdgadmconlbpcallepbg?hl=zh-CN" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; color: inherit; border: 1px solid #e2e8f0; border-radius: 16px; padding: 15px 20px; margin: 0 auto; max-width: 520px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); background: rgba(255, 255, 255, 0.4); text-align: left;">
     <table style="width: 100%; border: none;">
       <tr>
         <td style="width: 70px; vertical-align: middle; padding: 0; border: none;">
@@ -69,21 +73,22 @@
   </a>
 </div>
 
-<!-- 彩虹渐变色分割线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line" />
 <br>
 
-<br>
+<!-- 彩虹渐变色分割线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line" />
+
+<br><br>
+
+## 📊 开发者活跃与提交统计
+
+<div align="center">
   <!-- 外部拓展：GitHub 连续提交 Streak 统计 -->
   <a href="https://github.com/t84RT">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=t84RT&theme=dark&background=1e2022&border=009999&stroke=009999&ring=009999&fire=009999&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
   </a>
-</div>
-
-<br>
-
-<!-- 📈 贡献活跃曲线 -->
-<div align="center">
+  <br><br>
+  <!-- 📈 贡献活跃曲线 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t84RT&theme=react-dark&bg_color=1e2022&color=009999&line=00cccc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
@@ -101,6 +106,7 @@
 
 <!-- 彩虹渐变色分割线 -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line" />
+
 <br>
 
 ## 📱 官方矩阵与社交生态
@@ -108,22 +114,20 @@
 > **在这里，可以第一时间获得技术干货、设备拆解视频以及我开发的实战小工具。**
 
 <div align="center">
-
-<p align="center">
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894">
-    <img src="https://img.shields.io/badge/抖音实战-@小吴同学电气设计-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://space.bilibili.com/482117704/upload/video">
-    <img src="https://img.shields.io/badge/B站拆解-硬件与固件解析-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-  <a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">
-    <img src="https://img.shields.io/badge/CSDN博客-技术笔记合集-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
-  </a>
-  <a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">
-    <img src="https://img.shields.io/badge/微信公众号-小吴同学电气设计-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf?from_tab_name=main&relation=0&vid=7619609385589045894">
+      <img src="https://img.shields.io/badge/抖音实战-@小吴同学电气设计-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+    <a href="https://space.bilibili.com/482117704/upload/video">
+      <img src="https://img.shields.io/badge/B站拆解-硬件与固件解析-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+    </a>
+    <a href="https://blog.csdn.net/weixin_45922157/category_13156014.html">
+      <img src="https://img.shields.io/badge/CSDN博客-技术笔记合集-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+    </a>
+    <a href="https://mp.weixin.qq.com/s/zdcnAVVSTy8TkjIjs_tJGQ">
+      <img src="https://img.shields.io/badge/微信公众号-小吴同学电气设计-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <br>
@@ -131,18 +135,14 @@
 ### 🧩 扫码关注生态
 
 <div align="center">
-
   <p><i>长按识别下方二维码，获取更多技术干货与实用工具</i></p>
 
   <!-- 微信公众号卡片 -->
-  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto 35px auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
+  <div style="border: 1px solid #e1e4e8; background-color: #f6f8fa; border-radius: 12px; padding: 25px; margin: 0 auto; max-width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center;">
     <h4>微信公众号</h4>
     <p style="font-size: 14px; color: #555; margin: 5px 0 15px 0;">技术笔记与行业洞察</p>
-    <img src="./公众号.png" width="400" alt="微信公众号" />
+    <img src="./公众号.png" width="300" alt="微信公众号" style="border-radius: 8px;" />
   </div>
-
-  <br clear="both"/>
-  
 </div>
 
 <br>
