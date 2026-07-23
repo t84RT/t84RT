@@ -1,4 +1,4 @@
-name: 📊 生成极客炫酷双语指标与动态截图
+name: 📊 生成极客炫酷双语指标面板
 
 on:
   schedule:
@@ -13,134 +13,96 @@ jobs:
       contents: write
 
     steps:
-      # ========== 第 1 步：生成 GitHub 极客综合指标面板 ==========
-      - name: 📊 生成 GitHub 极客指标面板 (metrics.svg)
+      - name: 📊 生成 GitHub 极客综合指标面板 (metrics.svg)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: t84RT
 
-          # 🎨 全局风格配置
+          # =========================================================
+          # 1. 全局主题与外观控制 (Global Theme & Typography)
+          # =========================================================
           config_timezone: "Asia/Shanghai"
           config_locale: "zh-CN"
           config_display: "large"
-          config_skin: "dark"
+          config_skin: "dark"                 # 暗黑极客风格
+          config_padding: 0, 8%
 
-          # 📊 语言占比雷达
+          # =========================================================
+          # 2. 编程语言深度占比雷达 (Languages & Tech Radar)
+          # =========================================================
           plugin_languages: yes
-          plugin_languages_ignored: "HTML, CSS"
+          plugin_languages_ignored: "html, css, tex"
           plugin_languages_details: "bytes-size, percentage"
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes        # 开启深度代码分析
 
-          # 📈 习惯与编码频率图表
+          # =========================================================
+          # 3. 编码作息与频率习惯图表 (Coding Habits & Frequency)
+          # =========================================================
           plugin_habits: yes
           plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_facts: yes            # 统计习惯事实（如最常提交的时间段）
+          plugin_habits_charts: yes           # 绘制时段分布柱状图
+          plugin_habits_charts_type: classic
 
-          # 🗓️ 立体日历与全年贡献
+          # =========================================================
+          # 4. 3D 立体贡献日历 (3D Isometric Calendar)
+          # =========================================================
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: full-year # 展现全年立体绿图
 
-          # ⭐ 项目贡献与 Follow 占比
+          # =========================================================
+          # 5. 极客成就徽章墙 (Achievements & Badges)
+          # =========================================================
+          plugin_achievements: yes
+          plugin_achievements_threshold: "B"
+          plugin_achievements_secrets: yes   # 开启隐藏极客彩蛋徽章
+          plugin_achievements_display: detailed # 详细图章渲染模式
+
+          # =========================================================
+          # 6. 项目贡献与 Follow 占比 (Repositories & Followup)
+          # =========================================================
           plugin_followup: yes
           plugin_followup_sections: repositories, commits
 
-          # 📝 最近活动动态
+          # =========================================================
+          # 7. 技术栈与领域话题拓扑 (Topics & Tech Stack)
+          # =========================================================
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons           # 转换为漂亮的技术 Icon 标签
+
+          # =========================================================
+          # 8. 个人精选/高赞仓库卡片 (Featured Starred Repositories)
+          # =========================================================
+          plugin_stars: yes
+          plugin_stars_limit: 4               # 展出 4 个最具代表性的星标项目
+
+          # =========================================================
+          # 9. 实时 Activity 动态追踪 (Recent Activity Flow)
+          # =========================================================
           plugin_activity: yes
           plugin_activity_days: 7
           plugin_activity_limit: 5
-          plugin_activity_filter: "all"
+          plugin_activity_filter: "all"       # 包含 commit, issue, pr 等所有动态
 
-          # 🏅 成就徽章与 Stars 收藏
-          plugin_achievements: yes
-          plugin_achievements_threshold: "B"
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          # =========================================================
+          # 10. 极客代码字符风/路线图 (Lines of Code & Fortune)
+          # =========================================================
+          plugin_lines: yes                   # 统计代码总行数（增删情况）
+          
+          # =========================================================
+          # 11. 项目星标增长趋势图 (Stars Trend)
+          # =========================================================
+          plugin_stargazers: yes              # 展现 Star 增长趋势轨迹
 
-          committer_message: "📊 自动更新极客指标面板 [skip ci]"
+          # =========================================================
+          # 12. 开发者技能与能力蛛网 (Developer Skyline / Traffic)
+          # =========================================================
+          plugin_traffic: yes                 # 统计个人仓库流量与访客趋势
 
-      # ========== 第 2 步：截图抖音主页 ==========
-      - name: 📸 截图抖音主页 (metrics_douyin.svg)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_douyin.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: t84RT
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: "抖音主页 - 小吴同学电气设计"
-          plugin_screenshot_url: "https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf"
-          plugin_screenshot_selector: "body"
-          plugin_screenshot_background: yes
-          plugin_screenshot_viewport: |
-            {
-              "width": 1280,
-              "height": 800
-            }
-          plugin_screenshot_wait: 6000
-          committer_message: "📸 截图抖音主页 [skip ci]"
-
-      # ========== 第 3 步：截图 B 站主页 ==========
-      - name: 📸 截图 B 站主页 (metrics_bilibili.svg)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_bilibili.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: t84RT
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: "B 站主页 - 硬件与固件深度解析"
-          plugin_screenshot_url: "https://space.bilibili.com/482117704/upload/video"
-          plugin_screenshot_selector: "#app"
-          plugin_screenshot_background: yes
-          plugin_screenshot_viewport: |
-            {
-              "width": 1280,
-              "height": 800
-            }
-          plugin_screenshot_wait: 5000
-          committer_message: "📸 截图 B 站主页 [skip ci]"
-
-      # ========== 第 4 步：截图 CSDN 博客（已优化渲染等待） ==========
-      - name: 📸 截图 CSDN 博客 (metrics_csdn.svg)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_csdn.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: t84RT
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: "CSDN 博客 - 技术博客合集"
-          plugin_screenshot_url: "https://blog.csdn.net/weixin_45922157"
-          plugin_screenshot_selector: "body"
-          plugin_screenshot_background: yes
-          plugin_screenshot_viewport: |
-            {
-              "width": 1280,
-              "height": 800
-            }
-          plugin_screenshot_wait: 8000
-          committer_message: "📸 截图 CSDN 博客 [skip ci]"
-
-      # ========== 第 5 步：截图全网索引（已优化选择器） ==========
-      - name: 📸 截图公众号与全网索引 (metrics_wechat.svg)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_wechat.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: t84RT
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: "公众号与全网品牌 - 小吴同学电气设计"
-          plugin_screenshot_url: "https://cn.bing.com/search?q=%E5%B0%8F%E5%90%B4%E5%90%8C%E5%AD%A6%E7%94%B5%E6%B0%94%E8%AE%BE%E8%AE%A1"
-          plugin_screenshot_selector: "body"
-          plugin_screenshot_background: yes
-          plugin_screenshot_viewport: |
-            {
-              "width": 1280,
-              "height": 800
-            }
-          plugin_screenshot_wait: 6000
-          committer_message: "📸 截图公众号与全网索引 [skip ci]"
+          committer_message: "📊 自动更新全套极客指标面板 [skip ci]"
