@@ -21,88 +21,87 @@ jobs:
           user: t84RT
 
           # =========================================================
-          # 1. 全局主题与外观控制 (Global Theme & Typography)
+          # 1. 样式与主题 (Theme & Global Options)
           # =========================================================
           config_timezone: "Asia/Shanghai"
           config_locale: "zh-CN"
           config_display: "large"
-          config_skin: "dark"                 # 暗黑极客风格
+          config_skin: "dark"                 # 极客暗黑主题
           config_padding: 0, 8%
 
           # =========================================================
-          # 2. 编程语言深度占比雷达 (Languages & Tech Radar)
+          # 2. 核心数据与基础统计 (Base Statistics)
+          # =========================================================
+          base: "header, activity, community, repositories, metadata"
+
+          # =========================================================
+          # 3. 语言占比雷达 (Languages Radar - 快速版)
           # =========================================================
           plugin_languages: yes
           plugin_languages_ignored: "html, css, tex"
           plugin_languages_details: "bytes-size, percentage"
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          plugin_languages_indepth: yes        # 开启深度代码分析
 
           # =========================================================
-          # 3. 编码作息与频率习惯图表 (Coding Habits & Frequency)
+          # 4. 编码作息与频率习惯 (Coding Habits)
           # =========================================================
           plugin_habits: yes
           plugin_habits_days: 14
-          plugin_habits_facts: yes            # 统计习惯事实（如最常提交的时间段）
-          plugin_habits_charts: yes           # 绘制时段分布柱状图
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_habits_charts_type: classic
 
           # =========================================================
-          # 4. 3D 立体贡献日历 (3D Isometric Calendar)
+          # 5. 3D 立体绿图日历 (3D Isometric Calendar)
           # =========================================================
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # 展现全年立体绿图
+          plugin_isocalendar_duration: full-year
 
           # =========================================================
-          # 5. 极客成就徽章墙 (Achievements & Badges)
+          # 6. 极客成就徽章墙 (Achievements & Secrets)
           # =========================================================
           plugin_achievements: yes
           plugin_achievements_threshold: "B"
-          plugin_achievements_secrets: yes   # 开启隐藏极客彩蛋徽章
-          plugin_achievements_display: detailed # 详细图章渲染模式
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
 
           # =========================================================
-          # 6. 项目贡献与 Follow 占比 (Repositories & Followup)
+          # 7. 项目贡献与 Follow 占比 (Followup)
           # =========================================================
           plugin_followup: yes
           plugin_followup_sections: repositories, commits
 
           # =========================================================
-          # 7. 技术栈与领域话题拓扑 (Topics & Tech Stack)
+          # 8. 技术 Stack 图标拓扑 (Topics Icons)
           # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 12
-          plugin_topics_mode: icons           # 转换为漂亮的技术 Icon 标签
+          plugin_topics_mode: icons
 
           # =========================================================
-          # 8. 个人精选/高赞仓库卡片 (Featured Starred Repositories)
+          # 9. 精选/高赞仓库卡片 (Stars Showcase)
           # =========================================================
           plugin_stars: yes
-          plugin_stars_limit: 4               # 展出 4 个最具代表性的星标项目
+          plugin_stars_limit: 4
 
           # =========================================================
-          # 9. 实时 Activity 动态追踪 (Recent Activity Flow)
+          # 10. 实时 Activity 动态 (Recent Activity)
           # =========================================================
           plugin_activity: yes
           plugin_activity_days: 7
           plugin_activity_limit: 5
-          plugin_activity_filter: "all"       # 包含 commit, issue, pr 等所有动态
+          plugin_activity_filter: "all"
 
           # =========================================================
-          # 10. 极客代码字符风/路线图 (Lines of Code & Fortune)
+          # 11. 代码片段与 Gist 展示 (Gists)
           # =========================================================
-          plugin_lines: yes                   # 统计代码总行数（增删情况）
-          
-          # =========================================================
-          # 11. 项目星标增长趋势图 (Stars Trend)
-          # =========================================================
-          plugin_stargazers: yes              # 展现 Star 增长趋势轨迹
+          plugin_gists: yes                  # 快速展现代码片段/Gist
 
           # =========================================================
-          # 12. 开发者技能与能力蛛网 (Developer Skyline / Traffic)
+          # 12. 极客运势/随机代码风 (Fortune)
           # =========================================================
-          plugin_traffic: yes                 # 统计个人仓库流量与访客趋势
+          plugin_fortune: yes                # 增加底部极客名言/运势终端
 
           committer_message: "📊 自动更新全套极客指标面板 [skip ci]"
