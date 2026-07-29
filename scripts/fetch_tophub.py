@@ -24,11 +24,11 @@ CONFIG = {
     'url': 'https://tophub.today/c/tech',
     'timeout': 30,
     'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'scroll_item_count': 60,          # 滚动显示条目数
-    'scroll_duplicate': 12,           # 无缝循环复制的条目数
-    'scroll_height': 420,             # 滚动窗口高度（px）
-    'scroll_duration': 70,            # 滚动一圈秒数
-    'full_list_count': 120,           # 完整列表显示的条数
+    'scroll_item_count': 60,
+    'scroll_duplicate': 12,
+    'scroll_height': 420,
+    'scroll_duration': 70,
+    'full_list_count': 120,
     'output_dir': 'docs',
     'daily_filename': 'daily.md',
     'archive_prefix': 'tophub-',
@@ -184,6 +184,7 @@ def generate_scroll_html(items):
     for item in duplicated:
         html += f"<li><span>🔹 {item['index']}. {item['title']}</span><span class='source-tag'>{item['source']}</span></li>\n"
 
+    # ✅ 修复：补全缺失的闭合标签
     html += """
     </ul>
 </div>
