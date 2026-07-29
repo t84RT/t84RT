@@ -24,11 +24,11 @@ CONFIG = {
     'url': 'https://tophub.today/c/tech',
     'timeout': 30,
     'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'scroll_item_count': 60,
-    'scroll_duplicate': 12,
-    'scroll_height': 420,
-    'scroll_duration': 70,
-    'full_list_count': 120,
+    'scroll_item_count': 60,          # 滚动显示条目数
+    'scroll_duplicate': 12,           # 无缝循环复制的条目数
+    'scroll_height': 420,             # 滚动窗口高度（px）
+    'scroll_duration': 70,            # 滚动一圈秒数
+    'full_list_count': 120,           # 完整列表显示的条数
     'output_dir': 'docs',
     'daily_filename': 'daily.md',
     'archive_prefix': 'tophub-',
@@ -105,7 +105,7 @@ def fetch_tophub_tech():
 
 
 def generate_scroll_html(items):
-    """生成滚动播报的 HTML/CSS 代码"""
+    """生成滚动播报的 HTML/CSS 代码（完整结构）"""
     display = items[:CONFIG['scroll_item_count']]
     duplicated = display[:CONFIG['scroll_duplicate']]
 
@@ -184,7 +184,6 @@ def generate_scroll_html(items):
     for item in duplicated:
         html += f"<li><span>🔹 {item['index']}. {item['title']}</span><span class='source-tag'>{item['source']}</span></li>\n"
 
-    # ✅ 修复：补全缺失的闭合标签
     html += """
     </ul>
 </div>
@@ -193,7 +192,7 @@ def generate_scroll_html(items):
 
 
 def update_readme_with_scroll(scroll_html):
-    """将滚动播报 HTML 嵌入 README.md 的标记区域"""
+    """将滚动播报 HTML 嵌入 README.md 的标记区域（修复版）"""
     readme_path = "README.md"
     if not os.path.exists(readme_path):
         logger.warning(f"{readme_path} 不存在，跳过更新")
@@ -202,11 +201,13 @@ def update_readme_with_scroll(scroll_html):
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
+    # ✅ 正确定义占位标记
     start_tag = "<!-- TOPHUB_NEWS_START -->"
     end_tag = "<!-- TOPHUB_NEWS_END -->"
 
     if start_tag not in content or end_tag not in content:
         logger.warning(f"README.md 中未找到 {start_tag} 和 {end_tag}，跳过更新")
+        # 如果找不到标记，不修改文件，避免破坏内容
         return
 
     new_section = f"{start_tag}\n\n{scroll_html}\n\n{end_tag}"
