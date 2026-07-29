@@ -79,7 +79,8 @@
 <section itemscope itemtype="https://schema.org/Person">
   <h2>📌 关于“小吴同学电气设计”（t84RT）</h2>
   <p itemprop="description">
-    欢迎来到 <strong>小吴同学电气设计</strong>（全网同名自媒体，GitHub: <a href="https://github.com/t84RT" itemprop="url"><strong>t84RT</strong></a>）的技术探索空间！个人官方独立主页请访问：<a href="https://t84RT.github.io"><strong>t84RT.github.io</strong></a>。
+    欢迎来到 <strong>小吴同学电气设计</strong>（全网同名自媒体，GitHub: <a href="https://github.com/t84RT" itemprop="url"><strong>t84RT</strong></a>）的技术探索空间！
+    个人官方独立主页请访问：<a href="https://t84RT.github.io"><strong>t84RT.github.io</strong></a>。
   </p>
   <ul>
     <li>⚡ <strong>工业自动化核心</strong>：精通 PLC 梯形图、ST 语言、西门子 PLC 控制系统规划与现场复杂故障调试。</li>
