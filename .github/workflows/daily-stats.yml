@@ -1,4 +1,4 @@
-name: 📊 生成极客炫酷双语指标面板
+name: 📊 生成极客炫酷双语指标面板 + Tophub 每日热榜
 
 on:
   schedule:
@@ -13,7 +13,12 @@ jobs:
       contents: write
 
     steps:
-      - name: 📊 生成 GitHub 极客综合指标面板 (metrics.svg)
+      # ----- 1. 检出代码（必须先做） -----
+      - name: 📥 检出仓库
+        uses: actions/checkout@v4
+
+      # ----- 2. 生成 GitHub 指标面板（跳过自动提交） -----
+      - name: 📊 生成 GitHub 极客综合指标面板
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -21,19 +26,19 @@ jobs:
           user: t84RT
 
           # =========================================================
-          # 1. 基础全局配置与时区
+          # 基础全局配置与时区
           # =========================================================
           config_timezone: "Asia/Shanghai"
           config_display: "large"
           config_padding: 0, 8%
 
           # =========================================================
-          # 2. 基础数据 Header & 统计
+          # 基础数据 Header & 统计
           # =========================================================
           base: "header, activity, community, repositories, metadata"
 
           # =========================================================
-          # 3. 语言占比雷达 (Languages Radar)
+          # 语言占比雷达
           # =========================================================
           plugin_languages: yes
           plugin_languages_ignored: "html, css, tex"
@@ -42,7 +47,7 @@ jobs:
           plugin_languages_limit: 8
 
           # =========================================================
-          # 4. 编码作息与频率习惯柱状图 (Coding Habits)
+          # 编码作息与频率习惯
           # =========================================================
           plugin_habits: yes
           plugin_habits_days: 14
@@ -51,19 +56,19 @@ jobs:
           plugin_habits_charts_type: classic
 
           # =========================================================
-          # 5. 3D 立体绿图日历 (3D Isometric Calendar)
+          # 3D 立体绿图日历
           # =========================================================
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           # =========================================================
-          # 6. 项目贡献与 Follow 占比 (Followup)
+          # 项目贡献与 Follow 占比
           # =========================================================
           plugin_followup: yes
           plugin_followup_sections: repositories, commits
 
           # =========================================================
-          # 7. 技术 Stack 图标拓扑 (Topics Icons)
+          # 技术 Stack 图标拓扑
           # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -71,34 +76,65 @@ jobs:
           plugin_topics_mode: icons
 
           # =========================================================
-          # 8. 精选/高赞仓库卡片 (Stars Showcase)
+          # 精选/高赞仓库卡片
           # =========================================================
           plugin_stars: yes
           plugin_stars_limit: 4
 
           # =========================================================
-          # 9. 精选项目与固定仓库 (Featured Repositories)
+          # 精选项目与固定仓库
           # =========================================================
           plugin_repositories: yes
           plugin_repositories_pinned: 2
 
           # =========================================================
-          # 10. Star 列表与收藏库 (Starlists)
+          # Star 列表与收藏库
           # =========================================================
           plugin_starlists: yes
           plugin_starlists_limit: 2
 
           # =========================================================
-          # 11. 社区讨论参与度 (Discussions)
+          # 社区讨论参与度
           # =========================================================
           plugin_discussions: yes
           plugin_discussions_categories: yes
 
           # =========================================================
-          # 12. 开发者 License 协议占比 (Licenses Ratio)
+          # 开发者 License 协议占比
           # =========================================================
           plugin_licenses: yes
           plugin_licenses_setup: yes
           plugin_licenses_ratio: yes
 
-          committer_message: "📊 自动更新全套极客指标面板 [skip ci]"
+          # 🚨 关键：跳过自动提交，后续统一提交
+          committer_skip_commit: true
+
+      # ----- 3. 设置 Python 环境（用于 Tophub 抓取） -----
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ----- 4. 安装依赖 -----
+      - name: 📦 安装 Python 依赖
+        run: |
+          pip install -r requirements.txt
+
+      # ----- 5. 运行 Tophub 抓取脚本 -----
+      - name: 📰 抓取 Tophub 科技热榜
+        run: |
+          python scripts/fetch_tophub.py
+
+      # ----- 6. 统一提交所有更改（metrics.svg + docs/） -----
+      - name: 📤 提交并推送所有更新
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add metrics.svg docs/
+          # 检查是否有变更，若有则提交
+          if ! git diff --staged --quiet; then
+            git commit -m "📊 自动更新全套极客指标 + Tophub 热榜 $(date '+%Y-%m-%d')"
+            git push
+          else
+            echo "✅ 没有新变更需要提交"
+          fi
