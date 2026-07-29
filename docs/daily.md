@@ -1,6 +1,6 @@
 # 📱 Tophub 科技热榜日报
 
-> 更新时间：2026-07-29 05:27:20
+> 更新时间：2026-07-29 05:41:12
 > 数据来源：[Tophub 科技热榜](https://tophub.today/c/tech)
 > 共抓取 197 条
 
@@ -86,8 +86,8 @@
 <li><span>🔹 1. 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 硅谷最贵的「另一张芯片」，终于等到了它的时刻</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 1. 巴斯夫将启动10亿欧元股份回购</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 携程集团早盘涨超 4% 小摩指整改无损公司盈利能力</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 巴斯夫集团第二季度销售额172亿欧元，同比增长16.4%</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. 德意志银行盈利增长后计划新一轮 5 亿欧元股票回购</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 2. 突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 2. 新玩意 247｜少数派的编辑们最近买了啥？</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 2. 特斯拉被困纯视觉</span><span class='source-tag'>虎嗅网</span></li>
@@ -98,8 +98,8 @@
 <li><span>🔹 2. 派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 2. 苹果下一代高端笔记本将带来自 2021 年以来最显著外观变化</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 2. 马斯克、库克、黄仁勋盛赞中美元首会晤；英伟达市值破 5.5 万亿美元，超德国 GDP；《GTA6》将于 11 月 19 日零点解锁｜极客早知道</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 2. 德意志银行盈利增长后计划新一轮5亿欧元股票回购</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 2. Piper Sandler 上调可口可乐目标价至 95 美元</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 2. 巴斯夫将启动10亿欧元股份回购</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 2. 携程集团早盘涨超 4% 小摩指整改无损公司盈利能力</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 3. Kimi K3 一开源，Anthropic 终于不装了</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 3. 看不见、摸得着的家居要素：聊聊湿度管理的方法与实践</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 3. 十年前的国产剧，等来了迟到的清算</span><span class='source-tag'>虎嗅网</span></li>
@@ -110,8 +110,8 @@
 <li><span>🔹 3. 社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 3. 苹果发布 iOS 26.6 和 iPadOS 26.6：安全修复为主</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 3. DeepSeek 融资后，大模型领域会有什么新格局？</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 3. 瑞银二季度总营收137亿美元超预期，同比增长13%</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 3. 美股纳斯达克 100 指数期货跌超 1%</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 3. 德意志银行盈利增长后计划新一轮5亿欧元股票回购</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 3. Piper Sandler 上调可口可乐目标价至 95 美元</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 4. 1.7万亿港股AI解禁后，智谱和MiniMax跌走一半</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 4. 社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 4. 猪周期反转，这次可能来真的</span><span class='source-tag'>虎嗅网</span></li>
@@ -122,8 +122,8 @@
 <li><span>🔹 4. 能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 4. 苹果目前计划在 WWDC 2027 大会上发布其首款智能眼镜</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 4. 投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 4. 沪深两市成交额超1.5万亿元</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 4. 港股早评：三大指数高开，科网股继续涨势，半导体股延续低迷行情</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 4. 瑞银二季度总营收137亿美元超预期，同比增长13%</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 4. 美股纳斯达克 100 指数期货跌超 1%</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 5. 老黄版「曼哈顿计划」来了，砸50亿给Ilya，又批2500亿天价担保OpenAI</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 5. Parti：一个零门槛联机游戏平台，凭什么不需要服务器？</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 腾讯开始激进了</span><span class='source-tag'>虎嗅网</span></li>
@@ -133,8 +133,8 @@
 <li><span>🔹 5. 从《奥德赛》观影聊聊 IMAX 影院的分类</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 彭博社预测今年 Apple Watch 系列产品升级：变化不大</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 5. 脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 5. 深信服AI在CyberGym评测跻身全球前四，国内第一</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 5. 丰田汽车据称暂停日本南部三家工厂运营，停产措施将持续至周五</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 5. 沪深两市成交额超1.5万亿元</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 5. 港股早评：三大指数高开，科网股继续涨势，半导体股延续低迷行情</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 6. vivo耳机支持Wi-Fi，高通小米在前，微功耗WiFi将引爆AI硬件？</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 1. 8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 1. 本周看什么 | 最近值得一看的 13 部作品</span><span class='source-tag'>少数派</span></li>
@@ -146,8 +146,8 @@
 <li><span>🔹 1. 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 硅谷最贵的「另一张芯片」，终于等到了它的时刻</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 1. 巴斯夫将启动10亿欧元股份回购</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 携程集团早盘涨超 4% 小摩指整改无损公司盈利能力</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 巴斯夫集团第二季度销售额172亿欧元，同比增长16.4%</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. 德意志银行盈利增长后计划新一轮 5 亿欧元股票回购</span><span class='source-tag'>Readhub</span></li>
 
     </ul>
 </div>
@@ -231,15 +231,15 @@
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364266)
 
-### 1. 巴斯夫将启动10亿欧元股份回购
+### 1. 巴斯夫集团第二季度销售额172亿欧元，同比增长16.4%
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916265472110210?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916278790729097?f=rss)
 
-### 1. 携程集团早盘涨超 4% 小摩指整改无损公司盈利能力
+### 1. 德意志银行盈利增长后计划新一轮 5 亿欧元股票回购
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9QU0Dko42)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9Z307XIKi)
 
 ### 2. 突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签
 
@@ -298,15 +298,15 @@
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364185)
 
-### 2. 德意志银行盈利增长后计划新一轮5亿欧元股票回购
+### 2. 巴斯夫将启动10亿欧元股份回购
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916261377158535?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916265472110210?f=rss)
 
-### 2. Piper Sandler 上调可口可乐目标价至 95 美元
+### 2. 携程集团早盘涨超 4% 小摩指整改无损公司盈利能力
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9XGHnP7bf)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9QU0Dko42)
 
 ### 3. Kimi K3 一开源，Anthropic 终于不装了
 
@@ -358,22 +358,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949417)
-- 📎 1048
+- 📎 1078
 
 ### 3. DeepSeek 融资后，大模型领域会有什么新格局？
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364208)
 
-### 3. 瑞银二季度总营收137亿美元超预期，同比增长13%
+### 3. 德意志银行盈利增长后计划新一轮5亿欧元股票回购
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916260649938564?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916261377158535?f=rss)
 
-### 3. 美股纳斯达克 100 指数期货跌超 1%
+### 3. Piper Sandler 上调可口可乐目标价至 95 美元
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9DGEbHIhh)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9XGHnP7bf)
 
 ### 4. 1.7万亿港股AI解禁后，智谱和MiniMax跌走一半
 
@@ -432,15 +432,15 @@
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364177)
 
-### 4. 沪深两市成交额超1.5万亿元
+### 4. 瑞银二季度总营收137亿美元超预期，同比增长13%
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916258889510276?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916260649938564?f=rss)
 
-### 4. 港股早评：三大指数高开，科网股继续涨势，半导体股延续低迷行情
+### 4. 美股纳斯达克 100 指数期货跌超 1%
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9K3sv2jsP)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9DGEbHIhh)
 
 ### 5. 老黄版「曼哈顿计划」来了，砸50亿给Ilya，又批2500亿天价担保OpenAI
 
@@ -486,22 +486,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949302)
-- 📎 1398
+- 📎 1422
 
 ### 5. 脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364131)
 
-### 5. 深信服AI在CyberGym评测跻身全球前四，国内第一
+### 5. 沪深两市成交额超1.5万亿元
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916244683468418?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916258889510276?f=rss)
 
-### 5. 丰田汽车据称暂停日本南部三家工厂运营，停产措施将持续至周五
+### 5. 港股早评：三大指数高开，科网股继续涨势，半导体股延续低迷行情
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9VppW9NFK)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9K3sv2jsP)
 
 ### 6. vivo耳机支持Wi-Fi，高通小米在前，微功耗WiFi将引爆AI硬件？
 
@@ -553,22 +553,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949213)
-- 📎 1840
+- 📎 1854
 
 ### 6. Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364100)
 
-### 6. 渣打集团将启动10亿美元股份回购
+### 6. 深信服AI在CyberGym评测跻身全球前四，国内第一
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916230012398977?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916244683468418?f=rss)
 
-### 6. 理想高管回应离车泊入反复失败：感谢用户还原 将持续优化迭代
+### 6. 丰田汽车据称暂停日本南部三家工厂运营，停产措施将持续至周五
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9Se3IUyM2)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9VppW9NFK)
 
 ### 7. 中国开源模型三连击，梁文锋开最后一枪？
 
@@ -614,22 +614,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949107)
-- 📎 1942
+- 📎 1956
 
 ### 7. 免费 1500 次背后，商汤在下一盘什么棋
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364099)
 
-### 7. OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通
+### 7. 渣打集团将启动10亿美元股份回购
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916228086673026?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916230012398977?f=rss)
 
-### 7. 7 月 29 日午间公告一览：渣打集团 2026 年上半年经营收入 116 亿美元
+### 7. 理想高管回应离车泊入反复失败：感谢用户还原 将持续优化迭代
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9V9fLuyQ4)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9Se3IUyM2)
 
 ### 8. 最懂上班的年轻人，专挑周三请假
 
@@ -676,15 +676,15 @@
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364101)
 
-### 8. SK海力士跌逾17%，创纪录最大跌幅
+### 8. OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916218118680196?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916228086673026?f=rss)
 
-### 8. 机构：Q2 智能手机内存价格环比增长 80% 以上
+### 8. 7 月 29 日午间公告一览：渣打集团 2026 年上半年经营收入 116 亿美元
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9OR2PpctV)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9V9fLuyQ4)
 
 ### 9. 本周看什么 | 最近值得一看的 10 部作品
 
@@ -725,22 +725,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949027)
-- 📎 2222
+- 📎 2232
 
 ### 9. 谷歌在安卓上全面强化 Gemini AI；宇树发布全球首款载人机甲，售价 390 万元；追觅高管回应「崩老头」
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364062)
 
-### 9. 中核集团在雄安成立能源销售公司，注册资本2.01亿
+### 9. SK海力士跌逾17%，创纪录最大跌幅
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916191470218624?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916218118680196?f=rss)
 
-### 9. A 股午评：沪指半日跌 0.53%，先进封装、HBM、AMD 等概念走弱
+### 9. 机构：Q2 智能手机内存价格环比增长 80% 以上
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9K4ynA1DB)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9OR2PpctV)
 
 ### 10. 具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……
 
@@ -781,22 +781,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13949026)
-- 📎 1667
+- 📎 1676
 
 ### 10. 谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364060)
 
-### 10. 韩国KOSPI指数跌幅扩大至10%，SK海力士跌逾15%
+### 10. 中核集团在雄安成立能源销售公司，注册资本2.01亿
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/newsflashes/3916215401672065?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916191470218624?f=rss)
 
-### 10. 京东连续 11 年上榜世界 500 强 3 年蝉联大陆民营企业第一
+### 10. A 股午评：沪指半日跌 0.53%，先进封装、HBM、AMD 等概念走弱
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v8SovOL271)
+- 🔗 [原文链接](https://readhub.cn/topic/8v9K4ynA1DB)
 
 ### 11. 新玩意 246｜少数派的编辑们最近买了啥？
 
@@ -820,22 +820,22 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13948923)
-- 📎 2738
+- 📎 2746
 
 ### 11. 在中国市场搞「付费订阅」，豆包咋想的？
 
 - 🏷️ 来源：极客公园
 - 🔗 [原文链接](http://www.geekpark.net/news/364059)
 
-### 11. 在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab
+### 11. 韩国KOSPI指数跌幅扩大至10%，SK海力士跌逾15%
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://36kr.com/p/3916202023660929?f=rss)
+- 🔗 [原文链接](https://36kr.com/newsflashes/3916215401672065?f=rss)
 
-### 11. 地震冲击日本熊本基建，台积电等逐步恢复生产
+### 11. 京东连续 11 年上榜世界 500 强 3 年蝉联大陆民营企业第一
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8v9HvQIYJob)
+- 🔗 [原文链接](https://readhub.cn/topic/8v8SovOL271)
 
 ### 12. 小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？
 
