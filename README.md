@@ -44,7 +44,152 @@
 -->
 
 <!-- TOPHUB_NEWS_START -->
-<!-- 这里将由脚本自动填入热榜滚动播报 -->
+
+
+<style>
+.rolling-news {
+    height: 420px;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    background: #fafafa;
+    padding: 8px 0;
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.rolling-news ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    animation: scrollUp 70s linear infinite;
+}
+.rolling-news ul:hover {
+    animation-play-state: paused;
+}
+.rolling-news li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 15px;
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #2c3e50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rolling-news li:last-child {
+    border-bottom: none;
+}
+.rolling-news .source-tag {
+    background: #e8f0fe;
+    color: #1a73e8;
+    font-size: 12px;
+    padding: 2px 12px;
+    border-radius: 20px;
+    white-space: nowrap;
+    margin-left: 12px;
+    flex-shrink: 0;
+}
+@keyframes scrollUp {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-50%); }
+}
+@media (prefers-color-scheme: dark) {
+    .rolling-news {
+        background: #1e1e1e;
+        border-color: #333;
+    }
+    .rolling-news li {
+        color: #e0e0e0;
+        border-bottom-color: #2a2a2a;
+    }
+    .rolling-news .source-tag {
+        background: #2a3a5a;
+        color: #8ab4f8;
+    }
+}
+</style>
+<div class="rolling-news">
+    <ul>
+<li><span>🔹 1. 刚刚，Kimi K3开源，2.8万亿参数砸向全球，硅谷巨头看傻了</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. 本周看什么 | 最近值得一看的 13 部作品</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 1. 全国每人吃5斤才能吃完，昔日网红食物价格腰斩</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 1. “显腿长的阔腿裤能把人绊成骨折”，通勤人最爱的女装踩了多少坑？</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 1. 小米汽车：澎程系列搭载全新昆仑增程器，92/95/98 号汽油都能加</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 1. 早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚</span><span class='source-tag'>爱范儿</span></li>
+<li><span>🔹 1. 为何太阳系所有行星都在同一平面上旋转？</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 1. 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 1. 硅谷最贵的「另一张芯片」，终于等到了它的时刻</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 1. VITURE将于8月6日发布“五周年特别系列”新品</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 2. 8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 2. 新玩意 247｜少数派的编辑们最近买了啥？</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 2. 特斯拉被困纯视觉</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 2. 月之暗面全面开源Kimi K3；新研究推翻三星堆祭祀坑献祭说；台风“白海豚”生成</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 2. 徐洁云回怼小米澎程可加 92/95/98 号汽油被指营销：这么厉害的断章取义手段，咋不早点告诉我</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 2. 少一个座位便宜 1.4 万，极氪 9X 五座版上市，47.19 万起</span><span class='source-tag'>爱范儿</span></li>
+<li><span>🔹 2. 我国学者揭示早期宇宙星际间重元素起源之谜</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 2. 派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 2. 苹果下一代高端笔记本将带来自 2021 年以来最显著外观变化</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 2. 马斯克、库克、黄仁勋盛赞中美元首会晤；英伟达市值破 5.5 万亿美元，超德国 GDP；《GTA6》将于 11 月 19 日零点解锁｜极客早知道</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 2. 韩国KOSPI跌幅扩大至8%</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 2. 国家知识产权局：做好「十五五」时期知识产权工作 突出高质量发展导向</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 3. 1.7万亿港股AI解禁后，智谱和MiniMax跌走一半</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 3. 看不见、摸得着的家居要素：聊聊湿度管理的方法与实践</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 3. 十年前的国产剧，等来了迟到的清算</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 3. 黄仁勋、Kimi K3，与一场即将到来的开源战争。</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 3. 感冒灵正式纳入禁驾清单，说明书统一警示“服药期间不得驾驶机、车、船”</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 3. 比“胖五”更能扛！我国新一代载人运载火箭要来了</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 3. 社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 3. 苹果发布 iOS 26.6 和 iPadOS 26.6：安全修复为主</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 3. DeepSeek 融资后，大模型领域会有什么新格局？</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 3. 张小龙卸任粉笔关联公司职务</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 3. 财政部将于 8 月在香港发行 150 亿元人民币国债</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 4. 重估老铺黄金</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 4. 社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 4. 猪周期反转，这次可能来真的</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 4. AI新基建里，我们是“卖铲人”背后的“修铲人”</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 4. 终于告别“诗野千里”：华为鸿蒙 HarmonyOS 7 花粉 Beta 版设备缩略图焕新</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 4. 刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己</span><span class='source-tag'>爱范儿</span></li>
+<li><span>🔹 4. 5G演进已开始，6G研究正进行</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 4. 能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 4. 苹果目前计划在 WWDC 2027 大会上发布其首款智能眼镜</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 4. 投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 4. 国家知识产权局：预计在“十五五”时期战略性新兴产业专利比重将进一步提升</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 4. 韩国财政部：正在内部审查稳定韩国股市的措施</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 5. Kimi K3 一开源，Anthropic 终于不装了</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 5. Parti：一个零门槛联机游戏平台，凭什么不需要服务器？</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 5. 腾讯开始激进了</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 5. WAIC 的中学女生们：看见 AI，也看见自己</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 5. 华为 Nova16 SE 手机曝光：麒麟 8020 芯片 + 红枫影像，有望下月发布</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 5. 苹果 AI 眼镜明年 WWDC 见，但这次「隐私」不好做</span><span class='source-tag'>爱范儿</span></li>
+<li><span>🔹 5. “早期暗能量”或让宇宙年轻10亿岁</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 5. 从《奥德赛》观影聊聊 IMAX 影院的分类</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 5. 彭博社预测今年 Apple Watch 系列产品升级：变化不大</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 5. 脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 5. 美国7月消费者信心指数下滑</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 5. 扎克伯格：美国不应封锁中国人工智能</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 6. 老黄版「曼哈顿计划」来了，砸50亿给Ilya，又批2500亿天价担保OpenAI</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. 刚刚，Kimi K3开源，2.8万亿参数砸向全球，硅谷巨头看傻了</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. 本周看什么 | 最近值得一看的 13 部作品</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 1. 全国每人吃5斤才能吃完，昔日网红食物价格腰斩</span><span class='source-tag'>虎嗅网</span></li>
+<li><span>🔹 1. “显腿长的阔腿裤能把人绊成骨折”，通勤人最爱的女装踩了多少坑？</span><span class='source-tag'>果壳</span></li>
+<li><span>🔹 1. 小米汽车：澎程系列搭载全新昆仑增程器，92/95/98 号汽油都能加</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 1. 早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚</span><span class='source-tag'>爱范儿</span></li>
+<li><span>🔹 1. 为何太阳系所有行星都在同一平面上旋转？</span><span class='source-tag'>科普中国网</span></li>
+<li><span>🔹 1. 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」</span><span class='source-tag'>少数派</span></li>
+<li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
+<li><span>🔹 1. 硅谷最贵的「另一张芯片」，终于等到了它的时刻</span><span class='source-tag'>极客公园</span></li>
+<li><span>🔹 1. VITURE将于8月6日发布“五周年特别系列”新品</span><span class='source-tag'>36氪</span></li>
+<li><span>🔹 1. OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行</span><span class='source-tag'>Readhub</span></li>
+
+    </ul>
+</div>
+
+
 <!-- TOPHUB_NEWS_END -->
 
 <div align="center">
