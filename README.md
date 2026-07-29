@@ -43,6 +43,10 @@
 </script>
 -->
 
+<!-- TOPHUB_NEWS_START -->
+<!-- 这里将由脚本自动填入热榜滚动播报 -->
+<!-- TOPHUB_NEWS_END -->
+
 <div align="center">
 
 <!-- 顶部动态波浪横幅 -->
