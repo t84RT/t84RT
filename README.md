@@ -33,6 +33,7 @@
   "sameAs": [
     "https://github.com/t84RT",
     "https://t84RT.github.io",
+    "https://www.cnblogs.com/Student-Wu-s-Electrical-Design-t84RT",
     "https://www.douyin.com/user/MS4wLjABAAAAUCfhvxnowxypZgg93FHCEHYHxkkSDq04Scw5aCAaidP8syOQ4PLC-Ygc-8Rdz8cf",
     "https://space.bilibili.com/482117704",
     "https://blog.csdn.net/weixin_45922157",
