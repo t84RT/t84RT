@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2024" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2031" class="large">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            315 Commits
+                            316 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -368,13 +368,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="523.8581279317938" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="523.8581279317938" y="0" width="370.76602526199605" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="894.6241531937899" y="0" width="17.358246189020097" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="911.98239938281" y="0" width="5.089481301279994" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="917.0718806840899" y="0" width="1.8961701552548442" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="918.9680508393448" y="0" width="0.9289809042735908" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.8970317436183" y="0" width="0.10296825638166676" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="524.2513326772353" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="524.2513326772353" y="0" width="370.3980082184546" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="894.6493408956899" y="0" width="17.34101664259919" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="911.9903575382891" y="0" width="5.084429555073386" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="917.0747870933625" y="0" width="1.8942880439311454" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="918.9690751372935" y="0" width="0.928058811140447" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="919.897133948434" y="0" width="0.1028660515659331" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -387,7 +387,7 @@
                             </div>
                             <small>
                                 <div>1.62 MB</div>
-                                <div>56.94%</div>
+                                <div>56.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -413,7 +413,7 @@
                             </div>
                             <small>
                                 <div>1.15 MB</div>
-                                <div>40.3%</div>
+                                <div>40.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -439,7 +439,7 @@
                             </div>
                             <small>
                                 <div>53.6 kB</div>
-                                <div>1.89%</div>
+                                <div>1.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2785,11 +2785,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>t84RT/RF</span>
+                                                <span>t84RT/nRF24_jammer</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">老版本的RF，射频管家固件，其他的esp8266 esp32 BW16项目都有，学习交流加QQ1801789958</div>
+                                        <div class="field description">ESP32（ESP32-DevKitC (with Type-C) or ESP32-DevKit V1 *(with Micro USB)） 加两个NRF24模块实现WiFi和蓝牙干扰</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2819,11 +2819,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>t84RT/ESP-GRABER-t84RT</span>
+                                                <span>t84RT/RF-Master</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Graber 315/433/868/915MHz on ESP32</div>
+                                        <div class="field description">射频管家固件，其他的esp8266 esp32 BW16项目都有</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2927,7 +2927,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2026, 10:06:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2026, 10:12:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
