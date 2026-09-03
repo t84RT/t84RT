@@ -319,6 +319,13 @@
 <!-- 彩虹渐变色分割线 -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line Divider" />
 
+<!-- GOOGLE_NEWS_START -->
+
+<!-- GOOGLE_NEWS_END -->
+
+<!-- 彩虹渐变色分割线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line Divider" />
+
 <br>
 
 ## 💡 极客实验室与实战愿景规划
