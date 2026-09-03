@@ -6,7 +6,8 @@ Google News 多专题新闻聚合器（增强版）
 - 支持多个商业/科技相关专题
 - 每个源可独立配置最大条数（默认 30）
 - 提取标题、链接、摘要、发布时间
-- 保存为带日期的 Markdown 文件到 data/ 目录
+- 保存为带日期的 Markdown 文件到 googlenew/ 目录
+- 自动更新 README.md 中的滚动新闻列表（与 Tophub 样式一致）
 """
 
 import feedparser
@@ -14,12 +15,13 @@ import requests
 import datetime
 import os
 import sys
+import re
 from typing import List, Dict
 
 # ---------- 配置 ----------
 DATA_DIR = "googlenew"                     # 存储目录
-MAX_PER_SOURCE = 30                   # 每个源最多抓取条数（可调）
-TIMEOUT = 15                          # 请求超时
+MAX_PER_SOURCE = 30                        # 每个源最多抓取条数（可调）
+TIMEOUT = 15                               # 请求超时
 # 自定义请求头，模拟真实浏览器
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -58,7 +60,6 @@ def fetch_feed(url: str, source_name: str, max_items: int) -> List[Dict]:
         summary = entry.get("summary", "").strip()
         # 移除 HTML 标签（简单清理）
         if summary:
-            import re
             summary = re.sub(r"<[^>]+>", "", summary)  # 粗略去除标签
         entries.append({
             "title": entry.title,
@@ -94,6 +95,69 @@ def generate_report(sources_data: Dict[str, List[Dict]], date_str: str) -> str:
             lines.append("")  # 空行分隔
     return "\n".join(lines)
 
+# ---------- 更新 README.md 中的 Google News 滚动列表 ----------
+def update_readme_with_google_news():
+    """
+    从最新生成的 google_news 文件中提取标题和链接，
+    生成与 Tophub 样式一致的滚动 HTML，并替换 README.md 中的标记
+    """
+    # 1. 查找最新生成的 google_news 文件（存储目录为 googlenew）
+    data_dir = DATA_DIR   # 与上面配置一致
+    if not os.path.exists(data_dir):
+        print("⚠️ googlenew 目录不存在，跳过 README 更新")
+        return
+    files = [f for f in os.listdir(data_dir) if f.startswith("google_news_") and f.endswith(".md")]
+    if not files:
+        print("⚠️ 未找到 google_news 文件，跳过 README 更新")
+        return
+    latest = sorted(files)[-1]   # 按文件名排序，取最新的
+    filepath = os.path.join(data_dir, latest)
+
+    # 2. 解析 Markdown 提取标题和链接
+    entries = []
+    with open(filepath, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    for line in lines:
+        line = line.strip()
+        # 匹配形如 "### 1. [标题](链接)" 的行
+        match = re.match(r"^### \d+\. \[([^\]]+)\]\(([^)]+)\)", line)
+        if match:
+            title = match.group(1)
+            link = match.group(2)
+            entries.append({"title": title, "link": link})
+
+    if not entries:
+        print("⚠️ 解析不到任何条目，跳过 README 更新")
+        return
+
+    # 3. 生成滚动 HTML（与 Tophub 样式兼容）
+    max_display = 60
+    items = entries[:max_display]
+    # 构建列表项，每条前加 🔹 图标
+    lis = ''.join([f"<li><span>🔹 {i+1}. {item['title']}</span></li>" for i, item in enumerate(items)])
+    # 重复两倍实现无缝滚动
+    list_html = lis * 2
+    html_block = f"<div class='rolling-news'><ul>{list_html}</ul></div>"
+
+    # 4. 替换 README.md 中的标记
+    readme_path = "README.md"
+    if not os.path.exists(readme_path):
+        print("⚠️ README.md 不存在，跳过更新")
+        return
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    pattern = r"<!-- GOOGLE_NEWS_START -->.*?<!-- GOOGLE_NEWS_END -->"
+    replacement = f"<!-- GOOGLE_NEWS_START -->\n{html_block}\n<!-- GOOGLE_NEWS_END -->"
+    new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)
+
+    if count == 0:
+        print("⚠️ 未找到标记，请先在 README.md 中添加 <!-- GOOGLE_NEWS_START --> 和 <!-- GOOGLE_NEWS_END -->")
+        return
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    print("✅ README.md 中 Google News 滚动列表已更新")
+
 # ---------- 主函数 ----------
 def fetch_google_news():
     # 确保目录存在
@@ -122,6 +186,9 @@ def fetch_google_news():
 
     total = sum(len(v) for v in all_data.values())
     print(f"\n📊 总计抓取 {total} 条新闻，已保存至 {filepath}")
+
+    # 更新 README.md 中的滚动列表
+    update_readme_with_google_news()
 
 if __name__ == "__main__":
     fetch_google_news()
