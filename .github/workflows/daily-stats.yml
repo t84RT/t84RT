@@ -1,4 +1,4 @@
-name: 📊 生成极客炫酷双语指标面板 + Tophub 每日热榜
+name: 📊 生成极客炫酷双语指标面板 + Tophub 每日热榜 + Google News
 
 on:
   schedule:
@@ -88,14 +88,19 @@ jobs:
         run: |
           python scripts/fetch_tophub.py
 
-      # ----- 6. 提交并推送 -----
+      # ----- 6. 🆕 抓取 Google News（新增） -----
+      - name: 🌐 抓取 Google News 科技热榜
+        run: |
+          python scripts/fetch_google_news.py
+
+      # ----- 7. 提交并推送所有更新 -----
       - name: 📤 提交并推送所有更新
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "📊 自动更新全套极客指标 + Tophub 热榜 $(date '+%Y-%m-%d')"
+            git commit -m "📊 自动更新全套极客指标 + Tophub + Google News $(date '+%Y-%m-%d')"
             git pull --rebase --autostash origin ${GITHUB_REF#refs/heads/}
             git push origin ${GITHUB_REF#refs/heads/}
           else
