@@ -1,6 +1,6 @@
 # 📱 Tophub 科技热榜日报
 
-> 更新时间：2026-09-03 01:35:10
+> 更新时间：2026-09-03 01:49:51
 > 数据来源：[Tophub 科技热榜](https://tophub.today/c/tech)
 > 共抓取 198 条
 
@@ -128,7 +128,7 @@
 <li><span>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 比亚迪的好日子，没来</span><span class='source-tag'>虎嗅网</span></li>
 <li><span>🔹 5. 老外疯狂爱上中国脏摊的同时，我对“漂亮饭”彻底祛魅了……</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 5. 小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 5. 50.98 万元，新一代理想 Mega Home 发布</span><span class='source-tag'>IT之家</span></li>
 <li><span>🔹 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了</span><span class='source-tag'>爱范儿</span></li>
 <li><span>🔹 5. “早期暗能量”或让宇宙年轻10亿岁</span><span class='source-tag'>科普中国网</span></li>
 <li><span>🔹 5. 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等</span><span class='source-tag'>少数派</span></li>
@@ -200,7 +200,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997255.htm)
-- 📎 370评
+- 📎 373评
 
 ### 1. 早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市
 
@@ -267,7 +267,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997390.htm)
-- 📎 274评
+- 📎 275评
 
 ### 2. Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍
 
@@ -334,7 +334,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997446.htm)
-- 📎 380评
+- 📎 381评
 
 ### 3. 50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版
 
@@ -401,7 +401,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997413.htm)
-- 📎 410评
+- 📎 413评
 
 ### 4. 比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起
 
@@ -464,11 +464,11 @@
 - 🏷️ 来源：果壳
 - 🔗 [原文链接](https://www.guokr.com/article/470093/)
 
-### 5. 小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场
+### 5. 50.98 万元，新一代理想 Mega Home 发布
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997228.htm)
-- 📎 243评
+- 🔗 [原文链接](https://m.ithome.com/html/997654.htm)
+- 📎 160评
 
 ### 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了
 
@@ -535,7 +535,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997384.htm)
-- 📎 253评
+- 📎 260评
 
 ### 6. 5G、大数据、人工智能，看看现代交通的创新元素
 
@@ -553,7 +553,7 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13952799)
-- 📎 2755
+- 📎 2785
 
 ### 6. 库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道
 
@@ -592,11 +592,11 @@
 - 🏷️ 来源：果壳
 - 🔗 [原文链接](https://www.guokr.com/article/470091/)
 
-### 7. 50.98 万元，新一代理想 Mega Home 发布
+### 7. 小米 18 Fold“中折叠”手机将搭载小爱灵感球：轻松一拖即可完成各类任务
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997654.htm)
-- 📎 154评
+- 🔗 [原文链接](https://m.ithome.com/html/997540.htm)
+- 📎 311评
 
 ### 7. 13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？
 
@@ -653,11 +653,11 @@
 - 🏷️ 来源：果壳
 - 🔗 [原文链接](https://www.guokr.com/article/470088/)
 
-### 8. 小米首款起价破万元的手机：小米 18 Fold 跑分曝光，配 4.36 GHz 主频玄戒 O3 芯片
+### 8. 比亚迪海洋网旗舰 SUV 海狮 08 正式上市，22.99 万-27.99 万元
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997223.htm)
-- 📎 220评
+- 🔗 [原文链接](https://m.ithome.com/html/997538.htm)
+- 📎 155评
 
 ### 8. 3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头
 
@@ -709,11 +709,11 @@
 - 🏷️ 来源：果壳
 - 🔗 [原文链接](https://www.guokr.com/article/470085/)
 
-### 9. 小米 18 Fold“中折叠”手机将搭载小爱灵感球：轻松一拖即可完成各类任务
+### 9. 雷军：小米 18 Fold“中折叠”旗舰手机搭载 Xiaomi MiMo 端侧大模型
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997540.htm)
-- 📎 309评
+- 🔗 [原文链接](https://m.ithome.com/html/997426.htm)
+- 📎 266评
 
 ### 9. 地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场
 
@@ -731,7 +731,7 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13952608)
-- 📎 2070
+- 📎 2072
 
 ### 9. OpenAI 内部，AI 建立了三代「文明」
 
@@ -759,11 +759,11 @@
 - 🏷️ 来源：果壳
 - 🔗 [原文链接](https://www.guokr.com/article/470080/)
 
-### 10. 华为官宣刘德华担任 HUAWEI Mate XT 2 非凡大师品牌大使
+### 10. 劝退应届生风波后，曝星宇股份外包工每小时涨薪 1 元
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997235.htm)
-- 📎 197评
+- 🔗 [原文链接](https://m.ithome.com/html/997237.htm)
+- 📎 200评
 
 ### 10. Lovart 悄悄大更新，这一次轮到 AI 适应设计师了
 
@@ -810,11 +810,11 @@
 - 🔗 [原文链接](https://www.huxiu.com/article/4887272.html)
 - 📎 33.9万
 
-### 11. 比亚迪海洋网旗舰 SUV 海狮 08 正式上市，22.99 万-27.99 万元
+### 11. 小米 18 Fold“中折叠”手机拥有 1.2 米抗跌落能力，雷军称媲美直板旗舰
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/997538.htm)
-- 📎 154评
+- 🔗 [原文链接](https://m.ithome.com/html/997680.htm)
+- 📎 230评
 
 ### 11. 新 Mac mini 和 Mac Studio 将预装 macOS Golden Gate
 

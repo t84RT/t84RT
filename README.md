@@ -289,7 +289,7 @@
 <li><span>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 比亚迪的好日子，没来</span><span class='source-tag'>虎嗅网</span></li>
 <li><span>🔹 5. 老外疯狂爱上中国脏摊的同时，我对“漂亮饭”彻底祛魅了……</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 5. 小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场</span><span class='source-tag'>IT之家</span></li>
+<li><span>🔹 5. 50.98 万元，新一代理想 Mega Home 发布</span><span class='source-tag'>IT之家</span></li>
 <li><span>🔹 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了</span><span class='source-tag'>爱范儿</span></li>
 <li><span>🔹 5. “早期暗能量”或让宇宙年轻10亿岁</span><span class='source-tag'>科普中国网</span></li>
 <li><span>🔹 5. 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等</span><span class='source-tag'>少数派</span></li>
