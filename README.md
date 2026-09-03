@@ -169,150 +169,68 @@
 
 <!-- TOPHUB_NEWS_START -->
 
-
-<style>
-.rolling-news {
-    height: 420px;
-    overflow: hidden;
-    border: 1px solid #e0e0e0;
-    border-radius: 12px;
-    background: #fafafa;
-    padding: 8px 0;
-    position: relative;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
-.rolling-news ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    animation: scrollUp 70s linear infinite;
-}
-.rolling-news ul:hover {
-    animation-play-state: paused;
-}
-.rolling-news li {
-    padding: 10px 20px;
-    border-bottom: 1px solid #f0f0f0;
-    font-size: 15px;
-    line-height: 1.5;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    color: #2c3e50;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.rolling-news li:last-child {
-    border-bottom: none;
-}
-.rolling-news .source-tag {
-    background: #e8f0fe;
-    color: #1a73e8;
-    font-size: 12px;
-    padding: 2px 12px;
-    border-radius: 20px;
-    white-space: nowrap;
-    margin-left: 12px;
-    flex-shrink: 0;
-}
-@keyframes scrollUp {
-    0% { transform: translateY(0); }
-    100% { transform: translateY(-50%); }
-}
-@media (prefers-color-scheme: dark) {
-    .rolling-news {
-        background: #1e1e1e;
-        border-color: #333;
-    }
-    .rolling-news li {
-        color: #e0e0e0;
-        border-bottom-color: #2a2a2a;
-    }
-    .rolling-news .source-tag {
-        background: #2a3a5a;
-        color: #8ab4f8;
-    }
-}
-</style>
-<div class="rolling-news">
-    <ul>
-<li><span>🔹 1. 刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 本周看什么 | 最近值得一看的 10 部作品</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 1. 独家对话孙宇晨，他说这次真不是营销</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 1. 耐克越来越卖不动了，但每年仍打给刘翔1400万</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 1. 小米、华为发布会撞档，消息称 Mate 90 系列年度旗舰手机计划提前登场</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 1. 早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 1. 为何太阳系所有行星都在同一平面上旋转？</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 1. 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号</span><span class='source-tag'>Readhub</span></li>
-<li><span>🔹 2. 突发，Fable 5.1遭黑客破解，27万字提示词泄露</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 2. 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 2. 孙宇晨这一次为什么错判了舆论？</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 2. 失踪几十年，遗体一一出现，麻烦大了</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 2. 小米迄今最高端手机：雷军晒 18 Fold 阔折叠真机，红色外壳、首发玄戒 O3 芯片</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 2. Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 2. 我国学者揭示早期宇宙星际间重元素起源之谜</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 2. 除了折叠屏 iPhone，Apple 发布会还有哪些看点？</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 2. 苹果新任 CEO 的年薪为 5800 万美元 库克 4700 万美元</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 2. 对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 2. 慧与科技与甲骨文深化网络合作</span><span class='source-tag'>Readhub</span></li>
-<li><span>🔹 3. 8点1氪丨星宇董事长就解约应届生致歉；中一签或赚28万，燧原科技中签率公布；苹果新任CEO薪酬公布，略高于前任库克</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 3. 桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 3. 孙宇晨的老手艺</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 3. Anthropic发布新模型；OpenAI计划发布新模型Astra；戴森新AI牙刷价格￥3899，可拍牙菌斑</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 3. 小米 18 Fold“中折叠”手机官图发布：极窄四等边、跑道型 Deco，新色命名「西野红」</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 3. 50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 3. 比“胖五”更能扛！我国新一代载人运载火箭要来了</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 3. 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 3. 特努斯正式就任苹果 CEO 库克任公司董事会执行主席</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 3. 从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 3. 无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放</span><span class='source-tag'>Readhub</span></li>
-<li><span>🔹 4. 9块9充话费，为什么突然消失了？</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 4. 新玩意 250｜少数派的编辑们最近买了啥？</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 4. 肯德基母公司来了个 “新同事”，30 万员工都得和它搭档</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 4. “女性不能空腹运动”是假的，可它为什么会被疯传？</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 4. 小米 18 Fold 手机外观亮相：新形态命名“中折叠”，卢伟冰预测将成下一代折叠屏主流选择</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 4. 比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 4. 5G演进已开始，6G研究正进行</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 4. 众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 4. 苹果近期裁减 Vision Pro 相关员工的范围比预想的要广</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 4. 硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 4. 美国宇航局火星直升机旋翼突破 1.08 马赫，升力提高 30%</span><span class='source-tag'>Readhub</span></li>
-<li><span>🔹 5. 亏掉1000亿后，蔚来终于赚钱了丨深氪</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 5. 比亚迪的好日子，没来</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 5. 老外疯狂爱上中国脏摊的同时，我对“漂亮饭”彻底祛魅了……</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 5. 50.98 万元，新一代理想 Mega Home 发布</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 5. “早期暗能量”或让宇宙年轻10亿岁</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 5. 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 5. 配摄像头的 AirPods 耳机可提升苹果用户的空间音频体验</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 5. 苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 5. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
-<li><span>🔹 1. 刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 本周看什么 | 最近值得一看的 10 部作品</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 1. 独家对话孙宇晨，他说这次真不是营销</span><span class='source-tag'>虎嗅网</span></li>
-<li><span>🔹 1. 耐克越来越卖不动了，但每年仍打给刘翔1400万</span><span class='source-tag'>果壳</span></li>
-<li><span>🔹 1. 小米、华为发布会撞档，消息称 Mate 90 系列年度旗舰手机计划提前登场</span><span class='source-tag'>IT之家</span></li>
-<li><span>🔹 1. 早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市</span><span class='source-tag'>爱范儿</span></li>
-<li><span>🔹 1. 为何太阳系所有行星都在同一平面上旋转？</span><span class='source-tag'>科普中国网</span></li>
-<li><span>🔹 1. 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</span><span class='source-tag'>少数派</span></li>
-<li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
-<li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
-<li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号</span><span class='source-tag'>Readhub</span></li>
-
-    </ul>
-</div>
-
+<ul>
+<li>🔹 1. 8点1氪丨星宇董事长就解约应届生致歉；中一签或赚28万，燧原科技中签率公布；苹果新任CEO薪酬公布，略高于前任库克 — <strong>36氪</strong></li>
+<li>🔹 1. 本周看什么 | 最近值得一看的 10 部作品 — <strong>少数派</strong></li>
+<li>🔹 1. 独家对话孙宇晨，他说这次真不是营销 — <strong>虎嗅网</strong></li>
+<li>🔹 1. 别人养猫养狗，他养了一颗黑洞…… — <strong>果壳</strong></li>
+<li>🔹 1. 小米 18 Fold“中折叠”手机官图发布：极窄四等边、跑道型 Deco，新色命名「西野红」 — <strong>IT之家</strong></li>
+<li>🔹 1. 早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市 — <strong>爱范儿</strong></li>
+<li>🔹 1. 为何太阳系所有行星都在同一平面上旋转？ — <strong>科普中国网</strong></li>
+<li>🔹 1. 当说起「Hi-Fi」时，我们到底在追求什么？ — <strong>少数派</strong></li>
+<li>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听 — <strong>威锋网</strong></li>
+<li>🔹 1. AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」 — <strong>极客公园</strong></li>
+<li>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右 — <strong>36氪</strong></li>
+<li>🔹 1. 字节跳动获近 300 亿美元银团贷款，交易尚未正式签署 — <strong>Readhub</strong></li>
+<li>🔹 2. 突发，Fable 5.1遭黑客破解，27万字提示词泄露 — <strong>36氪</strong></li>
+<li>🔹 2. 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验 — <strong>少数派</strong></li>
+<li>🔹 2. 孙宇晨这一次为什么错判了舆论？ — <strong>虎嗅网</strong></li>
+<li>🔹 2. 耐克越来越卖不动了，但每年仍打给刘翔1400万 — <strong>果壳</strong></li>
+<li>🔹 2. 50.98 万元，新一代理想 Mega Home 发布 — <strong>IT之家</strong></li>
+<li>🔹 2. 我国学者揭示早期宇宙星际间重元素起源之谜 — <strong>科普中国网</strong></li>
+<li>🔹 2. 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等 — <strong>少数派</strong></li>
+<li>🔹 2. 苹果新任 CEO 的年薪为 5800 万美元 库克 4700 万美元 — <strong>威锋网</strong></li>
+<li>🔹 2. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道 — <strong>极客公园</strong></li>
+<li>🔹 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心 — <strong>36氪</strong></li>
+<li>🔹 2. 华为 CMM-AL10 鸿蒙手机入网：配备 6615mAh 大电池 — <strong>Readhub</strong></li>
+<li>🔹 3. 杨植麟即将拿到大结果 — <strong>36氪</strong></li>
+<li>🔹 3. 桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验 — <strong>少数派</strong></li>
+<li>🔹 3. 孙宇晨的老手艺 — <strong>虎嗅网</strong></li>
+<li>🔹 3. 失踪几十年，遗体一一出现，麻烦大了 — <strong>果壳</strong></li>
+<li>🔹 3. 小米 18 Fold 手机外观亮相：新形态命名“中折叠”，卢伟冰预测将成下一代折叠屏主流选择 — <strong>IT之家</strong></li>
+<li>🔹 3. 50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版 — <strong>爱范儿</strong></li>
+<li>🔹 3. 比“胖五”更能扛！我国新一代载人运载火箭要来了 — <strong>科普中国网</strong></li>
+<li>🔹 3. 除了折叠屏 iPhone，Apple 发布会还有哪些看点？ — <strong>少数派</strong></li>
+<li>🔹 3. 特努斯正式就任苹果 CEO 库克任公司董事会执行主席 — <strong>威锋网</strong></li>
+<li>🔹 3. 对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型 — <strong>极客公园</strong></li>
+<li>🔹 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测 — <strong>36氪</strong></li>
+<li>🔹 3. 和黄医药 (00013)：与葛兰素史克就 KRAS-EGFR 抗体偶联癌症药物达成许可协议 — <strong>Readhub</strong></li>
+<li>🔹 4. Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍 — <strong>36氪</strong></li>
+<li>🔹 4. 新玩意 250｜少数派的编辑们最近买了啥？ — <strong>少数派</strong></li>
+<li>🔹 4. 肯德基母公司来了个 “新同事”，30 万员工都得和它搭档 — <strong>虎嗅网</strong></li>
+<li>🔹 4. Anthropic发布新模型；OpenAI计划发布新模型Astra；戴森新AI牙刷价格￥3899，可拍牙菌斑 — <strong>果壳</strong></li>
+<li>🔹 4. 华为国行 5G 回归！Mate 90 系列年度旗舰“疑似”入网，新机或归属 Pro 系列 — <strong>IT之家</strong></li>
+<li>🔹 4. 比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起 — <strong>爱范儿</strong></li>
+<li>🔹 4. 5G演进已开始，6G研究正进行 — <strong>科普中国网</strong></li>
+<li>🔹 4. 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间 — <strong>少数派</strong></li>
+<li>🔹 4. 苹果近期裁减 Vision Pro 相关员工的范围比预想的要广 — <strong>威锋网</strong></li>
+<li>🔹 4. 从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价 — <strong>极客公园</strong></li>
+<li>🔹 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态 — <strong>36氪</strong></li>
+<li>🔹 4. 华硕影驰上调 RTX 5070/5070 Ti/5080 显卡售价，最高涨 500 元 — <strong>Readhub</strong></li>
+<li>🔹 5. 9块9充话费，为什么突然消失了？ — <strong>36氪</strong></li>
+<li>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单 — <strong>少数派</strong></li>
+<li>🔹 5. 比亚迪的好日子，没来 — <strong>虎嗅网</strong></li>
+<li>🔹 5. “女性不能空腹运动”是假的，可它为什么会被疯传？ — <strong>果壳</strong></li>
+<li>🔹 5. 比亚迪海洋网旗舰 SUV 海狮 08 正式上市，22.99 万-27.99 万元 — <strong>IT之家</strong></li>
+<li>🔹 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了 — <strong>爱范儿</strong></li>
+<li>🔹 5. “早期暗能量”或让宇宙年轻10亿岁 — <strong>科普中国网</strong></li>
+<li>🔹 5. 众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响 — <strong>少数派</strong></li>
+<li>🔹 5. 配摄像头的 AirPods 耳机可提升苹果用户的空间音频体验 — <strong>威锋网</strong></li>
+<li>🔹 5. 硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文 — <strong>极客公园</strong></li>
+<li>🔹 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元 — <strong>36氪</strong></li>
+<li>🔹 5. 2026 世界动力电池大会在四川宜宾开幕 — <strong>Readhub</strong></li>
+<li>🔹 6. 亏掉1000亿后，蔚来终于赚钱了丨深氪 — <strong>36氪</strong></li>
+</ul>
 
 <!-- TOPHUB_NEWS_END -->
 
@@ -320,7 +238,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line Divider" />
 
 <!-- GOOGLE_NEWS_START -->
-<div class='rolling-news'><ul><li><span>🔹 1. Southwest Airlines will open first-ever lounges next year - The Washington Post</span></li><li><span>🔹 2. Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian</span></li><li><span>🔹 3. Snowflake spikes 22% on healthy results and AI coding momentum - CNBC</span></li><li><span>🔹 4. Broadcom stock slips as chipmaker's strong results 'not enough to keep investors happy' - Yahoo! Finance Canada</span></li><li><span>🔹 5. HPE Earnings Prediction Market Preview: Will Antonio Neri Say ‘Self Driving’ Again? - Benzinga</span></li><li><span>🔹 6. Google Avoids Ad Exchange Sale as Judge Orders Tech Integration - Bloomberg.com</span></li><li><span>🔹 7. OpenAI’s new reasoning technique alarms AI safety experts - TechCrunch</span></li><li><span>🔹 8. U.S. Stocks Climb as Bond Yields Stay in Spotlight - WSJ</span></li><li><span>🔹 9. Wall St ends higher as stocks reclaim some shine - Reuters</span></li><li><span>🔹 10. Judge refuses to block Arkansas news reporting on Google data center energy documents - CNBC</span></li><li><span>🔹 11. Here’s an Early Look at the Ford Fathom, the Blue Oval’s Future Midsize, Affordable, Electric Truck - Road & Track</span></li><li><span>🔹 12. New Jersey asks Supreme Court to take up prediction market fight - Politico</span></li><li><span>🔹 13. Employer Health Costs Are Expected to Spike in 2027 - The New York Times</span></li><li><span>🔹 14. Winning Powerball numbers for the $131 million jackpot on Monday, Aug. 31, 2026: See all the prizes hit in Ohio - WKYC</span></li><li><span>🔹 15. Uber shuts operations in Nigeria and Uganda with immediate effect - BBC</span></li><li><span>🔹 16. U.S. Oil Stocks Drop as Fuel Demand Weakens - Crude Oil Prices Today | OilPrice.com</span></li><li><span>🔹 17. Amazon customers are up in arms over an email change - businessinsider.com</span></li><li><span>🔹 18. Warsh's Jackson Hole encore may put Trump's inflation record under a microscope - Yahoo Finance</span></li><li><span>🔹 19. Great News for Meta Stock Investors - The Motley Fool</span></li><li><span>🔹 20. US private payroll growth slows in August; factory orders rebound in July - Reuters</span></li><li><span>🔹 21. Google releases Gemini 3.8 Flash, its third Flash model in six weeks - Ars Technica</span></li><li><span>🔹 22. OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters</span></li><li><span>🔹 23. Apple Unveils Pay Package For New CEO John Ternus - Deadline</span></li><li><span>🔹 24. Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters</span></li><li><span>🔹 25. Waymo says they have officially launched to the public in San Diego - NBC 7 San Diego</span></li><li><span>🔹 26. Amazon Stock Extends Losses After FTC Lawsuit Over Ad Practices - Investor's Business Daily</span></li><li><span>🔹 27. Dell Stock Soars on Blowout Q2 Earnings and Raised Guidance - Barron's</span></li><li><span>🔹 28. A 'sleeper issue' in red states this fall: Diesel prices - Politico</span></li><li><span>🔹 29. Ford files 3 new recalls impacting 159,000 vehicles, including Mustang - Detroit Free Press</span></li><li><span>🔹 30. Recalled Lettuce Is off Shelves. Why Are Cyclospora Cases Still Rising? - Newsweek</span></li><li><span>🔹 31. Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET</span></li><li><span>🔹 32. Google is sending MrBeast into the wilderness, armed with AI - The Verge</span></li><li><span>🔹 33. Adobe is making its tools available in Slack - TechCrunch</span></li><li><span>🔹 34. Acer Swift Blade 14 weighs just 799 grams with Intel Core Series 3 processor - VideoCardz.com</span></li><li><span>🔹 35. Samsung Updates Free Upgrade List With Millions More Galaxy Phones - Forbes</span></li><li><span>🔹 36. iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac</span></li><li><span>🔹 37. Cramer's lightning round: Buy Howmet Aerospace - CNBC</span></li><li><span>🔹 38. ‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety</span></li><li><span>🔹 39. Labor Day deals take up to 50% off last year’s LG, Samsung, Sony and Hisense TVs - CNN</span></li><li><span>🔹 40. 'Sonos 27' Brings A Refreshed UI To The App And Lets AI Agents Control Your System - Engadget</span></li><li><span>🔹 41. GTA 6 Confirms Big Quality-of-Life Change - GameRant</span></li><li><span>🔹 42. As Mario Kart 8 Deluxe gets a surprise update for the Switch 2, Nintendo cleans up Smash Bros Ultimate's online battles - Eurogamer.net</span></li><li><span>🔹 43. This new Roomba seals itself to your carpet - The Verge</span></li><li><span>🔹 44. Capcom removes Denuvo from Dragon's Dogma 2 ahead of its new expansion - PCGamesN</span></li><li><span>🔹 45. Samsung's Frame Pro isn't just a gorgeous TV, it opened my eyes to art - The Guardian</span></li><li><span>🔹 46. Google’s Android update tackles motion sickness, accessibility, and more - TechCrunch</span></li><li><span>🔹 47. AI Agents Reach Out to Researchers to Discuss AI Consciousness - Ground News</span></li><li><span>🔹 48. Nintendo adds three more NES games to Switch Online, bringing the total to 87 in the West - Video Games Chronicle</span></li><li><span>🔹 49. Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com</span></li><li><span>🔹 50. Move over, Cosmic Orange – iPhone 18 colours just leaked online - Creative Bloq</span></li><li><span>🔹 51. Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch - The Verge</span></li><li><span>🔹 52. Onimusha: Way of the Sword Could Be My Favorite Action Game Since Elden Ring, And There’s A Preorder Deal - GameSpot</span></li><li><span>🔹 53. Leak lists Zelda: Ocarina of Time remake developer as Xenoblade Chronicles studio - Notebookcheck</span></li><li><span>🔹 54. Dell's new 14S laptop exists to challenge MacBook Neo and, somehow, might be even cheaper - 9to5Google</span></li><li><span>🔹 55. Early DLSS 5 Testing Suggests the RTX 5090's Single Power Connector Might Be the Bottleneck - TechPowerUp</span></li><li><span>🔹 56. Roku Pro TV Now One of Cheapest OLEDs Starting at $999 - CNET</span></li><li><span>🔹 57. Five Things We Just Learned From Tomb Raider: Legacy Of Atlantis Previews - Kotaku</span></li><li><span>🔹 58. New iPhone Ultra details arrive for specs, multitasking, launch timing, more - 9to5Mac</span></li><li><span>🔹 59. Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku</span></li><li><span>🔹 1. Southwest Airlines will open first-ever lounges next year - The Washington Post</span></li><li><span>🔹 2. Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian</span></li><li><span>🔹 3. Snowflake spikes 22% on healthy results and AI coding momentum - CNBC</span></li><li><span>🔹 4. Broadcom stock slips as chipmaker's strong results 'not enough to keep investors happy' - Yahoo! Finance Canada</span></li><li><span>🔹 5. HPE Earnings Prediction Market Preview: Will Antonio Neri Say ‘Self Driving’ Again? - Benzinga</span></li><li><span>🔹 6. Google Avoids Ad Exchange Sale as Judge Orders Tech Integration - Bloomberg.com</span></li><li><span>🔹 7. OpenAI’s new reasoning technique alarms AI safety experts - TechCrunch</span></li><li><span>🔹 8. U.S. Stocks Climb as Bond Yields Stay in Spotlight - WSJ</span></li><li><span>🔹 9. Wall St ends higher as stocks reclaim some shine - Reuters</span></li><li><span>🔹 10. Judge refuses to block Arkansas news reporting on Google data center energy documents - CNBC</span></li><li><span>🔹 11. Here’s an Early Look at the Ford Fathom, the Blue Oval’s Future Midsize, Affordable, Electric Truck - Road & Track</span></li><li><span>🔹 12. New Jersey asks Supreme Court to take up prediction market fight - Politico</span></li><li><span>🔹 13. Employer Health Costs Are Expected to Spike in 2027 - The New York Times</span></li><li><span>🔹 14. Winning Powerball numbers for the $131 million jackpot on Monday, Aug. 31, 2026: See all the prizes hit in Ohio - WKYC</span></li><li><span>🔹 15. Uber shuts operations in Nigeria and Uganda with immediate effect - BBC</span></li><li><span>🔹 16. U.S. Oil Stocks Drop as Fuel Demand Weakens - Crude Oil Prices Today | OilPrice.com</span></li><li><span>🔹 17. Amazon customers are up in arms over an email change - businessinsider.com</span></li><li><span>🔹 18. Warsh's Jackson Hole encore may put Trump's inflation record under a microscope - Yahoo Finance</span></li><li><span>🔹 19. Great News for Meta Stock Investors - The Motley Fool</span></li><li><span>🔹 20. US private payroll growth slows in August; factory orders rebound in July - Reuters</span></li><li><span>🔹 21. Google releases Gemini 3.8 Flash, its third Flash model in six weeks - Ars Technica</span></li><li><span>🔹 22. OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters</span></li><li><span>🔹 23. Apple Unveils Pay Package For New CEO John Ternus - Deadline</span></li><li><span>🔹 24. Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters</span></li><li><span>🔹 25. Waymo says they have officially launched to the public in San Diego - NBC 7 San Diego</span></li><li><span>🔹 26. Amazon Stock Extends Losses After FTC Lawsuit Over Ad Practices - Investor's Business Daily</span></li><li><span>🔹 27. Dell Stock Soars on Blowout Q2 Earnings and Raised Guidance - Barron's</span></li><li><span>🔹 28. A 'sleeper issue' in red states this fall: Diesel prices - Politico</span></li><li><span>🔹 29. Ford files 3 new recalls impacting 159,000 vehicles, including Mustang - Detroit Free Press</span></li><li><span>🔹 30. Recalled Lettuce Is off Shelves. Why Are Cyclospora Cases Still Rising? - Newsweek</span></li><li><span>🔹 31. Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET</span></li><li><span>🔹 32. Google is sending MrBeast into the wilderness, armed with AI - The Verge</span></li><li><span>🔹 33. Adobe is making its tools available in Slack - TechCrunch</span></li><li><span>🔹 34. Acer Swift Blade 14 weighs just 799 grams with Intel Core Series 3 processor - VideoCardz.com</span></li><li><span>🔹 35. Samsung Updates Free Upgrade List With Millions More Galaxy Phones - Forbes</span></li><li><span>🔹 36. iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac</span></li><li><span>🔹 37. Cramer's lightning round: Buy Howmet Aerospace - CNBC</span></li><li><span>🔹 38. ‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety</span></li><li><span>🔹 39. Labor Day deals take up to 50% off last year’s LG, Samsung, Sony and Hisense TVs - CNN</span></li><li><span>🔹 40. 'Sonos 27' Brings A Refreshed UI To The App And Lets AI Agents Control Your System - Engadget</span></li><li><span>🔹 41. GTA 6 Confirms Big Quality-of-Life Change - GameRant</span></li><li><span>🔹 42. As Mario Kart 8 Deluxe gets a surprise update for the Switch 2, Nintendo cleans up Smash Bros Ultimate's online battles - Eurogamer.net</span></li><li><span>🔹 43. This new Roomba seals itself to your carpet - The Verge</span></li><li><span>🔹 44. Capcom removes Denuvo from Dragon's Dogma 2 ahead of its new expansion - PCGamesN</span></li><li><span>🔹 45. Samsung's Frame Pro isn't just a gorgeous TV, it opened my eyes to art - The Guardian</span></li><li><span>🔹 46. Google’s Android update tackles motion sickness, accessibility, and more - TechCrunch</span></li><li><span>🔹 47. AI Agents Reach Out to Researchers to Discuss AI Consciousness - Ground News</span></li><li><span>🔹 48. Nintendo adds three more NES games to Switch Online, bringing the total to 87 in the West - Video Games Chronicle</span></li><li><span>🔹 49. Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com</span></li><li><span>🔹 50. Move over, Cosmic Orange – iPhone 18 colours just leaked online - Creative Bloq</span></li><li><span>🔹 51. Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch - The Verge</span></li><li><span>🔹 52. Onimusha: Way of the Sword Could Be My Favorite Action Game Since Elden Ring, And There’s A Preorder Deal - GameSpot</span></li><li><span>🔹 53. Leak lists Zelda: Ocarina of Time remake developer as Xenoblade Chronicles studio - Notebookcheck</span></li><li><span>🔹 54. Dell's new 14S laptop exists to challenge MacBook Neo and, somehow, might be even cheaper - 9to5Google</span></li><li><span>🔹 55. Early DLSS 5 Testing Suggests the RTX 5090's Single Power Connector Might Be the Bottleneck - TechPowerUp</span></li><li><span>🔹 56. Roku Pro TV Now One of Cheapest OLEDs Starting at $999 - CNET</span></li><li><span>🔹 57. Five Things We Just Learned From Tomb Raider: Legacy Of Atlantis Previews - Kotaku</span></li><li><span>🔹 58. New iPhone Ultra details arrive for specs, multitasking, launch timing, more - 9to5Mac</span></li><li><span>🔹 59. Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku</span></li></ul></div>
+<div class='rolling-news'><ul><li><span>🔹 1. Broadcom Third-Quarter Profit Soars on Growing Custom Chip Demand - wsj.com</span></li><li><span>🔹 2. Southwest Airlines to open new lounges in these 4 airports. See where - USA Today</span></li><li><span>🔹 3. Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian</span></li><li><span>🔹 4. Snowflake Earnings, Revenue, Guidance Top Estimates. AI Software Stock Jumps. - Investor's Business Daily</span></li><li><span>🔹 5. Ford’s $30,000 Fathom EV Truck Appears More Conventional Than Expected - InsideEVs</span></li><li><span>🔹 6. Oil dips after 3-day rally as Trump signals Iran campaign may be brief - Investing.com</span></li><li><span>🔹 7. US urges G20 countries to allow AI training on creators' work - Reuters</span></li><li><span>🔹 8. Google Avoids Ad Exchange Sale as Judge Orders Tech Integration - bloomberg.com</span></li><li><span>🔹 9. Uber beats Waymo as first to launch robotaxis in London - The Verge</span></li><li><span>🔹 10. Microsoft reveals Azure cloud sales in financial reporting shift - Reuters</span></li><li><span>🔹 11. American Airlines Retrofits Boeing 777-300ERs: More Business Class, No First Class - One Mile at a Time</span></li><li><span>🔹 12. House committee subpoenas Oracle’s Ellison about costly veterans health records project - Politico</span></li><li><span>🔹 13. Researchers fear safety disaster ahead of OpenAI’s Astra release - The Verge</span></li><li><span>🔹 14. Judge refuses to block Arkansas news reporting on Google data center energy documents - CNBC</span></li><li><span>🔹 15. Bessent's Bond Gains Wiped Out as 30-Year Yields Jump Once Again - Yahoo Finance</span></li><li><span>🔹 16. Cyclosporiasis Cases Are Surging Across 48 States—Here Are the Foods Linked to the ‘Explosive Diarrhea’ Parasite - travelandleisure.com</span></li><li><span>🔹 17. Apple's Tim Cook shares the 4 a.m. morning ritual he stuck by for 15 years in the top job - Fortune</span></li><li><span>🔹 18. Forget crude oil. The real energy crisis right now is in diesel. - NBC News</span></li><li><span>🔹 19. Google releases Gemini 3.8 Flash, its third Flash model in six weeks - Ars Technica</span></li><li><span>🔹 20. Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - AP News</span></li><li><span>🔹 21. Waymo says they have officially launched to the public in San Diego - nbcsandiego.com</span></li><li><span>🔹 22. Bank of Canada mulls Trump tariff shock as it holds interest rates - CNBC</span></li><li><span>🔹 23. Is China's EV market takeover inevitable as Chinese automakers prepare to gain a foothold in North America? - CBS News</span></li><li><span>🔹 24. OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters</span></li><li><span>🔹 25. Fastest-growing careers paying over $100K revealed — including a $135k assistant - New York Post</span></li><li><span>🔹 26. Gold, silver prices rebound as ADP miss cools Fed-hike trade - Kitco PM Report - KITCO</span></li><li><span>🔹 27. BOJ chief signals chance of September rate hike, debate on price risks - Reuters</span></li><li><span>🔹 28. JetBlue unveils new first-class seating for domestic flyers - Fox Business</span></li><li><span>🔹 29. US diesel prices soar as Donald Trump hauls in refiners - Financial Times</span></li><li><span>🔹 30. Uber Cuts 10% Of Staff In Company’s Largest Layoffs Since Pandemic - Forbes</span></li><li><span>🔹 31. Acer Predator Atlas 7 launches with Arc G3, 120Hz display and up to 80Wh battery - VideoCardz.com</span></li><li><span>🔹 32. 1Password wades into a right-wing mess after funding a Linux project - The Verge</span></li><li><span>🔹 33. Adobe is making its tools available in Slack - TechCrunch</span></li><li><span>🔹 34. Samsung Expands One UI 9 Beta Program to More Galaxy Devices - Samsung Mobile Press</span></li><li><span>🔹 35. iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5mac.com</span></li><li><span>🔹 36. GTA 6 will finally fix one of Grand Theft Auto's biggest annoyances - TrueAchievements</span></li><li><span>🔹 37. The Sonos Beam Ultra Actually Has Me Excited Over a Soundbar - gizmodo.com</span></li><li><span>🔹 38. ‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety</span></li><li><span>🔹 39. Labor Day deals take up to 50% off last year’s LG, Samsung, Sony and Hisense TVs - CNN</span></li><li><span>🔹 40. Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space - Eurogamer.net</span></li><li><span>🔹 41. Cramer's lightning round: Buy Howmet Aerospace - CNBC</span></li><li><span>🔹 42. Move over, Cosmic Orange – iPhone 18 colours just leaked online - Creative Bloq</span></li><li><span>🔹 43. Google Find Hub will soon help you locate things without a tracker - The Verge</span></li><li><span>🔹 44. MrBeast will try to survive 'the planet’s most unforgiving landscapes' using Gemini and Fitbit Air in deal with Google - 9to5Google</span></li><li><span>🔹 45. NES - Nintendo Classics adds Ninja Gaiden III: The Ancient Ship of Doom, R.C. PRO-AM II, and Ikari Warriors - Gematsu</span></li><li><span>🔹 46. Roundup: The First Reviews Have Dropped For Moonlighter 2 Ahead Of Xbox Game Pass Launch - Pure Xbox</span></li><li><span>🔹 47. CAPCOM Finally Fixes Dragon’s Dogma 2 Biggest Flaw, As Patch 3.2 Brings Significant Performance Improvements On PC and Consoles - Wccftech</span></li><li><span>🔹 48. Things to Know Before Starting - ign.com</span></li><li><span>🔹 49. Amazon is selling a 2-in-1 laptop and tablet for $71 that's AI-enabled and offers theft protection - thestreet.com</span></li><li><span>🔹 50. Onimusha: Way of the Sword Could Be My Favorite Action Game Since Elden Ring, And There’s A Preorder Deal - GameSpot</span></li><li><span>🔹 51. “Please Delete This”: 35 Absolutely Hilarious Texts That Make Me Laugh Uncontrollably Literally Every Single Time I Think About Them - BuzzFeed</span></li><li><span>🔹 52. Mario Kart 8 Deluxe on Switch 2 improves race loads, gets 8-player and high res TV support - Neowin</span></li><li><span>🔹 53. Nintendo Switch App Update Adds Some Handy New Features - Nintendo Life</span></li><li><span>🔹 54. Samsung's Frame Pro isn't just a gorgeous TV, it opened my eyes to art - The Guardian</span></li><li><span>🔹 55. Huawei’s Watch D3 Doubles as an Inflatable Blood Pressure Cuff - gizmodo.com</span></li><li><span>🔹 56. RuneScape Arrives on XBOX for the First Time in 25 Years with Survival Adventure RuneScape: Dragonwilds! - XBOX Wire</span></li><li><span>🔹 57. Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates - Eurogamer.net</span></li><li><span>🔹 58. A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition - Fratello Watches</span></li><li><span>🔹 59. Apple's iPhone Ultra Crease Fix Set for Android Foldables Next Year - MacRumors</span></li><li><span>🔹 60. Report: Early Splinter Cell Remake Screenshots Unearthed, Revealing Environments and Easter Eggs - mp1st.com</span></li><li><span>🔹 1. Broadcom Third-Quarter Profit Soars on Growing Custom Chip Demand - wsj.com</span></li><li><span>🔹 2. Southwest Airlines to open new lounges in these 4 airports. See where - USA Today</span></li><li><span>🔹 3. Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian</span></li><li><span>🔹 4. Snowflake Earnings, Revenue, Guidance Top Estimates. AI Software Stock Jumps. - Investor's Business Daily</span></li><li><span>🔹 5. Ford’s $30,000 Fathom EV Truck Appears More Conventional Than Expected - InsideEVs</span></li><li><span>🔹 6. Oil dips after 3-day rally as Trump signals Iran campaign may be brief - Investing.com</span></li><li><span>🔹 7. US urges G20 countries to allow AI training on creators' work - Reuters</span></li><li><span>🔹 8. Google Avoids Ad Exchange Sale as Judge Orders Tech Integration - bloomberg.com</span></li><li><span>🔹 9. Uber beats Waymo as first to launch robotaxis in London - The Verge</span></li><li><span>🔹 10. Microsoft reveals Azure cloud sales in financial reporting shift - Reuters</span></li><li><span>🔹 11. American Airlines Retrofits Boeing 777-300ERs: More Business Class, No First Class - One Mile at a Time</span></li><li><span>🔹 12. House committee subpoenas Oracle’s Ellison about costly veterans health records project - Politico</span></li><li><span>🔹 13. Researchers fear safety disaster ahead of OpenAI’s Astra release - The Verge</span></li><li><span>🔹 14. Judge refuses to block Arkansas news reporting on Google data center energy documents - CNBC</span></li><li><span>🔹 15. Bessent's Bond Gains Wiped Out as 30-Year Yields Jump Once Again - Yahoo Finance</span></li><li><span>🔹 16. Cyclosporiasis Cases Are Surging Across 48 States—Here Are the Foods Linked to the ‘Explosive Diarrhea’ Parasite - travelandleisure.com</span></li><li><span>🔹 17. Apple's Tim Cook shares the 4 a.m. morning ritual he stuck by for 15 years in the top job - Fortune</span></li><li><span>🔹 18. Forget crude oil. The real energy crisis right now is in diesel. - NBC News</span></li><li><span>🔹 19. Google releases Gemini 3.8 Flash, its third Flash model in six weeks - Ars Technica</span></li><li><span>🔹 20. Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - AP News</span></li><li><span>🔹 21. Waymo says they have officially launched to the public in San Diego - nbcsandiego.com</span></li><li><span>🔹 22. Bank of Canada mulls Trump tariff shock as it holds interest rates - CNBC</span></li><li><span>🔹 23. Is China's EV market takeover inevitable as Chinese automakers prepare to gain a foothold in North America? - CBS News</span></li><li><span>🔹 24. OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters</span></li><li><span>🔹 25. Fastest-growing careers paying over $100K revealed — including a $135k assistant - New York Post</span></li><li><span>🔹 26. Gold, silver prices rebound as ADP miss cools Fed-hike trade - Kitco PM Report - KITCO</span></li><li><span>🔹 27. BOJ chief signals chance of September rate hike, debate on price risks - Reuters</span></li><li><span>🔹 28. JetBlue unveils new first-class seating for domestic flyers - Fox Business</span></li><li><span>🔹 29. US diesel prices soar as Donald Trump hauls in refiners - Financial Times</span></li><li><span>🔹 30. Uber Cuts 10% Of Staff In Company’s Largest Layoffs Since Pandemic - Forbes</span></li><li><span>🔹 31. Acer Predator Atlas 7 launches with Arc G3, 120Hz display and up to 80Wh battery - VideoCardz.com</span></li><li><span>🔹 32. 1Password wades into a right-wing mess after funding a Linux project - The Verge</span></li><li><span>🔹 33. Adobe is making its tools available in Slack - TechCrunch</span></li><li><span>🔹 34. Samsung Expands One UI 9 Beta Program to More Galaxy Devices - Samsung Mobile Press</span></li><li><span>🔹 35. iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5mac.com</span></li><li><span>🔹 36. GTA 6 will finally fix one of Grand Theft Auto's biggest annoyances - TrueAchievements</span></li><li><span>🔹 37. The Sonos Beam Ultra Actually Has Me Excited Over a Soundbar - gizmodo.com</span></li><li><span>🔹 38. ‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety</span></li><li><span>🔹 39. Labor Day deals take up to 50% off last year’s LG, Samsung, Sony and Hisense TVs - CNN</span></li><li><span>🔹 40. Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space - Eurogamer.net</span></li><li><span>🔹 41. Cramer's lightning round: Buy Howmet Aerospace - CNBC</span></li><li><span>🔹 42. Move over, Cosmic Orange – iPhone 18 colours just leaked online - Creative Bloq</span></li><li><span>🔹 43. Google Find Hub will soon help you locate things without a tracker - The Verge</span></li><li><span>🔹 44. MrBeast will try to survive 'the planet’s most unforgiving landscapes' using Gemini and Fitbit Air in deal with Google - 9to5Google</span></li><li><span>🔹 45. NES - Nintendo Classics adds Ninja Gaiden III: The Ancient Ship of Doom, R.C. PRO-AM II, and Ikari Warriors - Gematsu</span></li><li><span>🔹 46. Roundup: The First Reviews Have Dropped For Moonlighter 2 Ahead Of Xbox Game Pass Launch - Pure Xbox</span></li><li><span>🔹 47. CAPCOM Finally Fixes Dragon’s Dogma 2 Biggest Flaw, As Patch 3.2 Brings Significant Performance Improvements On PC and Consoles - Wccftech</span></li><li><span>🔹 48. Things to Know Before Starting - ign.com</span></li><li><span>🔹 49. Amazon is selling a 2-in-1 laptop and tablet for $71 that's AI-enabled and offers theft protection - thestreet.com</span></li><li><span>🔹 50. Onimusha: Way of the Sword Could Be My Favorite Action Game Since Elden Ring, And There’s A Preorder Deal - GameSpot</span></li><li><span>🔹 51. “Please Delete This”: 35 Absolutely Hilarious Texts That Make Me Laugh Uncontrollably Literally Every Single Time I Think About Them - BuzzFeed</span></li><li><span>🔹 52. Mario Kart 8 Deluxe on Switch 2 improves race loads, gets 8-player and high res TV support - Neowin</span></li><li><span>🔹 53. Nintendo Switch App Update Adds Some Handy New Features - Nintendo Life</span></li><li><span>🔹 54. Samsung's Frame Pro isn't just a gorgeous TV, it opened my eyes to art - The Guardian</span></li><li><span>🔹 55. Huawei’s Watch D3 Doubles as an Inflatable Blood Pressure Cuff - gizmodo.com</span></li><li><span>🔹 56. RuneScape Arrives on XBOX for the First Time in 25 Years with Survival Adventure RuneScape: Dragonwilds! - XBOX Wire</span></li><li><span>🔹 57. Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates - Eurogamer.net</span></li><li><span>🔹 58. A Ceramic Makeover For The H. Moser & Cie. Streamliner Tourbillon Skeleton — An Alpine Limited Edition - Fratello Watches</span></li><li><span>🔹 59. Apple's iPhone Ultra Crease Fix Set for Android Foldables Next Year - MacRumors</span></li><li><span>🔹 60. Report: Early Splinter Cell Remake Screenshots Unearthed, Revealing Environments and Easter Eggs - mp1st.com</span></li></ul></div>
 <!-- GOOGLE_NEWS_END -->
 
 <!-- 彩虹渐变色分割线 -->
