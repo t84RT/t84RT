@@ -1,6 +1,6 @@
 # 📱 Tophub 科技热榜日报
 
-> 更新时间：2026-09-03 01:49:51
+> 更新时间：2026-09-03 01:59:17
 > 数据来源：[Tophub 科技热榜](https://tophub.today/c/tech)
 > 共抓取 198 条
 
@@ -87,7 +87,7 @@
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 慧与科技与甲骨文深化网络合作</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 2. 突发，Fable 5.1遭黑客破解，27万字提示词泄露</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 2. 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 2. 孙宇晨这一次为什么错判了舆论？</span><span class='source-tag'>虎嗅网</span></li>
@@ -99,7 +99,7 @@
 <li><span>🔹 2. 苹果新任 CEO 的年薪为 5800 万美元 库克 4700 万美元</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 2. 对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 2. 知乎 15 亿注册成立人工智能公司</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 2. 无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 3. 8点1氪丨星宇董事长就解约应届生致歉；中一签或赚28万，燧原科技中签率公布；苹果新任CEO薪酬公布，略高于前任库克</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 3. 桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 3. 孙宇晨的老手艺</span><span class='source-tag'>虎嗅网</span></li>
@@ -111,7 +111,7 @@
 <li><span>🔹 3. 特努斯正式就任苹果 CEO 库克任公司董事会执行主席</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 3. 从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 3. 大众汽车重组计划揭晓 德国四座工厂或关闭 数万员工面临就业危机</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 3. 美国宇航局火星直升机旋翼突破 1.08 马赫，升力提高 30%</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 4. 9块9充话费，为什么突然消失了？</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 4. 新玩意 250｜少数派的编辑们最近买了啥？</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 4. 肯德基母公司来了个 “新同事”，30 万员工都得和它搭档</span><span class='source-tag'>虎嗅网</span></li>
@@ -123,7 +123,7 @@
 <li><span>🔹 4. 苹果近期裁减 Vision Pro 相关员工的范围比预想的要广</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 4. 硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 4. 宏碁发布 Aspire G 3D 16 笔记本：Strix Halo 芯片 支持裸眼 3D 显示</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 4. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 5. 亏掉1000亿后，蔚来终于赚钱了丨深氪</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 比亚迪的好日子，没来</span><span class='source-tag'>虎嗅网</span></li>
@@ -135,7 +135,7 @@
 <li><span>🔹 5. 配摄像头的 AirPods 耳机可提升苹果用户的空间音频体验</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 5. 苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 5. 龙源电力等在海南成立新能源公司</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 5. 知乎 15 亿注册成立人工智能公司</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 1. 刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 1. 本周看什么 | 最近值得一看的 10 部作品</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 1. 独家对话孙宇晨，他说这次真不是营销</span><span class='source-tag'>虎嗅网</span></li>
@@ -147,7 +147,7 @@
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 慧与科技与甲骨文深化网络合作</span><span class='source-tag'>Readhub</span></li>
 
     </ul>
 </div>
@@ -236,10 +236,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926062342896005?f=rss)
 
-### 1. 信息发展投资成立新公司 含 AI 相关业务
+### 1. 慧与科技与甲骨文深化网络合作
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5j1HGfPC1)
+- 🔗 [原文链接](https://readhub.cn/topic/8w6wiPliCyY)
 
 ### 2. 突发，Fable 5.1遭黑客破解，27万字提示词泄露
 
@@ -291,7 +291,7 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13953010)
-- 📎 979
+- 📎 1009
 
 ### 2. 对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型
 
@@ -303,10 +303,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926058785994880?f=rss)
 
-### 2. 知乎 15 亿注册成立人工智能公司
+### 2. 无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5rc9xoimL)
+- 🔗 [原文链接](https://readhub.cn/topic/8w72UtmgpQ5)
 
 ### 3. 8点1氪丨星宇董事长就解约应届生致歉；中一签或赚28万，燧原科技中签率公布；苹果新任CEO薪酬公布，略高于前任库克
 
@@ -358,7 +358,7 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13953009)
-- 📎 780
+- 📎 810
 
 ### 3. 从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价
 
@@ -370,10 +370,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926051415161218?f=rss)
 
-### 3. 大众汽车重组计划揭晓 德国四座工厂或关闭 数万员工面临就业危机
+### 3. 美国宇航局火星直升机旋翼突破 1.08 马赫，升力提高 30%
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w6j8qgS2MU)
+- 🔗 [原文链接](https://readhub.cn/topic/8w71itwwKDv)
 
 ### 4. 9块9充话费，为什么突然消失了？
 
@@ -401,7 +401,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997413.htm)
-- 📎 413评
+- 📎 414评
 
 ### 4. 比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起
 
@@ -425,7 +425,7 @@
 
 - 🏷️ 来源：威锋网
 - 🔗 [原文链接](https://www.feng.com/post/13952938)
-- 📎 1022
+- 📎 1052
 
 ### 4. 硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文
 
@@ -437,10 +437,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/p/3926013599086727?f=rss)
 
-### 4. 宏碁发布 Aspire G 3D 16 笔记本：Strix Halo 芯片 支持裸眼 3D 显示
+### 4. 信息发展投资成立新公司 含 AI 相关业务
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w67eWKPwqV)
+- 🔗 [原文链接](https://readhub.cn/topic/8w5j1HGfPC1)
 
 ### 5. 亏掉1000亿后，蔚来终于赚钱了丨深氪
 
@@ -468,7 +468,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997654.htm)
-- 📎 160评
+- 📎 159评
 
 ### 5. 李飞飞的 World Labs，把赛博朋克的「超梦」做出来了
 
@@ -504,10 +504,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926038167877767?f=rss)
 
-### 5. 龙源电力等在海南成立新能源公司
+### 5. 知乎 15 亿注册成立人工智能公司
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5l7nz3Me9)
+- 🔗 [原文链接](https://readhub.cn/topic/8w5rc9xoimL)
 
 ### 6. Meta甩出语音转写“神器”：准确识别中英文夹杂，支持超20人长聊1小时
 
@@ -565,10 +565,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926029000013956?f=rss)
 
-### 6. 金健米业、芒果超媒等成立新公司 含食用农产品批发业务
+### 6. 大众汽车重组计划揭晓 德国四座工厂或关闭 数万员工面临就业危机
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5W8h6QjYs)
+- 🔗 [原文链接](https://readhub.cn/topic/8w6j8qgS2MU)
 
 ### 7. 用ChatGPT算作弊，那找人代笔呢？新争议背后藏着老问题
 
@@ -626,10 +626,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926018347595906?f=rss)
 
-### 7. 今年前 8 个月全国共新开国际航空货运航线 115 条
+### 7. 宏碁发布 Aspire G 3D 16 笔记本：Strix Halo 芯片 支持裸眼 3D 显示
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w71jssAW6d)
+- 🔗 [原文链接](https://readhub.cn/topic/8w67eWKPwqV)
 
 ### 8. Runway把代码干掉了，首个界面世界模型，UI自己长出来
 
@@ -687,10 +687,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926009821182086?f=rss)
 
-### 8. 东阳光成立科技控股新公司 含智能机器人业务
+### 8. 龙源电力等在海南成立新能源公司
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5l7Za3JR8)
+- 🔗 [原文链接](https://readhub.cn/topic/8w5l7nz3Me9)
 
 ### 9. 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展
 
@@ -743,10 +743,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/p/3926003098843272?f=rss)
 
-### 9. 量子计算商业化渐近，加密货币面临严峻威胁
+### 9. 金健米业、芒果超媒等成立新公司 含食用农产品批发业务
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5nGjMzUyJ)
+- 🔗 [原文链接](https://readhub.cn/topic/8w5W8h6QjYs)
 
 ### 10. 我以为刘翔已经属于自己了
 
@@ -793,10 +793,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926001579980936?f=rss)
 
-### 10. 联诚精密等成立半导体科技新公司
+### 10. 今年前 8 个月全国共新开国际航空货运航线 115 条
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5nIsuPOwO)
+- 🔗 [原文链接](https://readhub.cn/topic/8w71jssAW6d)
 
 ### 11. TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验
 
@@ -814,7 +814,7 @@
 
 - 🏷️ 来源：IT之家
 - 🔗 [原文链接](https://m.ithome.com/html/997680.htm)
-- 📎 230评
+- 📎 232评
 
 ### 11. 新 Mac mini 和 Mac Studio 将预装 macOS Golden Gate
 
@@ -832,10 +832,10 @@
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926000559814784?f=rss)
 
-### 11. 光线传媒等成立文化科技公司 含动漫游戏开发业务
+### 11. 东阳光成立科技控股新公司 含智能机器人业务
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8w5nIBdiScX)
+- 🔗 [原文链接](https://readhub.cn/topic/8w5l7Za3JR8)
 
 ### 12. 新玩意 249｜少数派的编辑们最近买了啥？
 

@@ -248,7 +248,7 @@
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 慧与科技与甲骨文深化网络合作</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 2. 突发，Fable 5.1遭黑客破解，27万字提示词泄露</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 2. 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 2. 孙宇晨这一次为什么错判了舆论？</span><span class='source-tag'>虎嗅网</span></li>
@@ -260,7 +260,7 @@
 <li><span>🔹 2. 苹果新任 CEO 的年薪为 5800 万美元 库克 4700 万美元</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 2. 对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 2. 知乎 15 亿注册成立人工智能公司</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 2. 无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 3. 8点1氪丨星宇董事长就解约应届生致歉；中一签或赚28万，燧原科技中签率公布；苹果新任CEO薪酬公布，略高于前任库克</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 3. 桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 3. 孙宇晨的老手艺</span><span class='source-tag'>虎嗅网</span></li>
@@ -272,7 +272,7 @@
 <li><span>🔹 3. 特努斯正式就任苹果 CEO 库克任公司董事会执行主席</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 3. 从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 3. 大众汽车重组计划揭晓 德国四座工厂或关闭 数万员工面临就业危机</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 3. 美国宇航局火星直升机旋翼突破 1.08 马赫，升力提高 30%</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 4. 9块9充话费，为什么突然消失了？</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 4. 新玩意 250｜少数派的编辑们最近买了啥？</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 4. 肯德基母公司来了个 “新同事”，30 万员工都得和它搭档</span><span class='source-tag'>虎嗅网</span></li>
@@ -284,7 +284,7 @@
 <li><span>🔹 4. 苹果近期裁减 Vision Pro 相关员工的范围比预想的要广</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 4. 硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 4. 宏碁发布 Aspire G 3D 16 笔记本：Strix Halo 芯片 支持裸眼 3D 显示</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 4. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 5. 亏掉1000亿后，蔚来终于赚钱了丨深氪</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 5. 社区速递 155 | 适马千元人像神头与七月派友剁手清单</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 5. 比亚迪的好日子，没来</span><span class='source-tag'>虎嗅网</span></li>
@@ -296,7 +296,7 @@
 <li><span>🔹 5. 配摄像头的 AirPods 耳机可提升苹果用户的空间音频体验</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 5. 苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 5. 龙源电力等在海南成立新能源公司</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 5. 知乎 15 亿注册成立人工智能公司</span><span class='source-tag'>Readhub</span></li>
 <li><span>🔹 1. 刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位</span><span class='source-tag'>36氪</span></li>
 <li><span>🔹 1. 本周看什么 | 最近值得一看的 10 部作品</span><span class='source-tag'>少数派</span></li>
 <li><span>🔹 1. 独家对话孙宇晨，他说这次真不是营销</span><span class='source-tag'>虎嗅网</span></li>
@@ -308,7 +308,7 @@
 <li><span>🔹 1. 威锋送上 Apple Music 福利 全新用户专享 2 个月免费畅听</span><span class='source-tag'>威锋网</span></li>
 <li><span>🔹 1. 马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</span><span class='source-tag'>极客公园</span></li>
 <li><span>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右</span><span class='source-tag'>36氪</span></li>
-<li><span>🔹 1. 信息发展投资成立新公司 含 AI 相关业务</span><span class='source-tag'>Readhub</span></li>
+<li><span>🔹 1. 慧与科技与甲骨文深化网络合作</span><span class='source-tag'>Readhub</span></li>
 
     </ul>
 </div>
