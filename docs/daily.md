@@ -1,74 +1,74 @@
 # 📱 Tophub 科技热榜日报
 
-> 更新时间：2026-11-08 02:48:36
+> 更新时间：2026-11-09 03:06:41
 > 数据来源：[Tophub 科技热榜](https://tophub.today/c/tech)
-> 共抓取 199 条
+> 共抓取 196 条
 
 ---
 
 ## 🔄 滚动播报（自动轮播）
 
 <ul>
-<li>🔹 1. 手机形态之争升级：OPPO、vivo集体跟进，阔直板将成下一种主流形态？ — <strong>36氪</strong></li>
-<li>🔹 1. 你不知道的客户端开发：AI 时代下的选型、原生与借力 — <strong>少数派</strong></li>
+<li>🔹 1. 8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元 — <strong>36氪</strong></li>
+<li>🔹 1. 开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验 — <strong>少数派</strong></li>
 <li>🔹 1. 美国巨变 — <strong>虎嗅网</strong></li>
-<li>🔹 1. 凌晨2点，在清华实验室，人类能看见的宇宙悄悄变远了 — <strong>果壳</strong></li>
-<li>🔹 1. 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里 — <strong>IT之家</strong></li>
-<li>🔹 1. 最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元 — <strong>爱范儿</strong></li>
+<li>🔹 1. 警惕！！！就算是厄尔尼诺年，断崖降温依然会掏空你的钱包！ — <strong>果壳</strong></li>
+<li>🔹 1. 英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口” — <strong>IT之家</strong></li>
+<li>🔹 1. M6 MacBook Pro 体验：38 块的灵魂，一万五的身体 — <strong>爱范儿</strong></li>
 <li>🔹 1. 为何太阳系所有行星都在同一平面上旋转？ — <strong>科普中国网</strong></li>
-<li>🔹 1. 一个 05 后的个人数码编年史 — <strong>少数派</strong></li>
-<li>🔹 1. 首个 macOS 27.3 开发者测试版包含一项重要的安全修复 — <strong>威锋网</strong></li>
-<li>🔹 1. 创业者做 Personal Agent，有没有一线生机？ — <strong>极客公园</strong></li>
+<li>🔹 1. 双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖 — <strong>少数派</strong></li>
+<li>🔹 1. Apple Music Classical 4.1 发布：全新的黑白应用图标 — <strong>威锋网</strong></li>
+<li>🔹 1. 黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层 — <strong>极客公园</strong></li>
 <li>🔹 1. 周大福周生生老庙金饰集体上涨8-10元左右 — <strong>36氪</strong></li>
-<li>🔹 1. 围绕三大核心主线 一周逾 550 家上市公司迎来投资者调研 — <strong>Readhub</strong></li>
-<li>🔹 2. Anthropic最强Model 4首次曝光：RSI狂飙2倍速 — <strong>36氪</strong></li>
-<li>🔹 2. 国行 Apple 智能上手：这些功能已经准备好 — <strong>少数派</strong></li>
+<li>🔹 1. 假冒食品运输车中途截走货物，英伟达承运商现低级漏洞 — <strong>Readhub</strong></li>
+<li>🔹 2. 爆火的《持械入宋》里，AI  找到了爱它的观众 — <strong>36氪</strong></li>
+<li>🔹 2. 新玩意 255｜少数派的编辑们最近买了啥？ — <strong>少数派</strong></li>
 <li>🔹 2. 腾讯憋了个大招，就这？ — <strong>虎嗅网</strong></li>
-<li>🔹 2. 全国约2300万孩子长期受它折磨，却只有3%就医治疗！ — <strong>果壳</strong></li>
-<li>🔹 2. 小米 18 标准版手机通过 3C 认证，支持 100W 快充 — <strong>IT之家</strong></li>
-<li>🔹 2. 早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票 — <strong>爱范儿</strong></li>
+<li>🔹 2. 人在水里会变成可怜的睁眼瞎，这个邪修方法可以避免 — <strong>果壳</strong></li>
+<li>🔹 2. 苹果 iPhone 18/18e 系列机型 X 光图曝光：两款手机共用部分模具，搭 4430mAh 电池 — <strong>IT之家</strong></li>
+<li>🔹 2. 早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元 — <strong>爱范儿</strong></li>
 <li>🔹 2. 我国学者揭示早期宇宙星际间重元素起源之谜 — <strong>科普中国网</strong></li>
-<li>🔹 2. 带 Apple 芯片的 Mac 机型也能享受新的“实时活动”功能 — <strong>威锋网</strong></li>
-<li>🔹 2. 收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案 — <strong>极客公园</strong></li>
+<li>🔹 2. 派早报：特斯拉将停产 Cybertruck — <strong>少数派</strong></li>
+<li>🔹 2. 明年开始 iPhone 上的“操作按钮”或与“相机控制”功能合并 — <strong>威锋网</strong></li>
+<li>🔹 2. 具身智能，也到了 API 时刻？ — <strong>极客公园</strong></li>
 <li>🔹 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心 — <strong>36氪</strong></li>
-<li>🔹 2. 比尔盖茨谈亿万富翁税：贫富差距不能指望靠慈善捐赠解决 — <strong>Readhub</strong></li>
-<li>🔹 3. 9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿 — <strong>36氪</strong></li>
-<li>🔹 3. 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验 — <strong>少数派</strong></li>
+<li>🔹 2. 北交所开市五周年市场规模壮大 业内呼吁完善长期资金配置渠道 — <strong>Readhub</strong></li>
+<li>🔹 3. 九成代码AI写，谁来审？Claude Code亮出6道关卡！ — <strong>36氪</strong></li>
+<li>🔹 3. 你不知道的客户端开发：AI 时代下的选型、原生与借力 — <strong>少数派</strong></li>
 <li>🔹 3. 哈佛经济学家追踪十万孩子的30年：搬家，可以“改命” — <strong>虎嗅网</strong></li>
-<li>🔹 3. 又是投毒！32岁中国博士答辩失利，给同门下毒致其神经受损，这种试剂每个实验室都有 — <strong>果壳</strong></li>
-<li>🔹 3. 5999 → 2339 元：小米 MIX Flip 2 小折叠手机新低，骁龙 8 至尊版 + 双 VC 立体散热 — <strong>IT之家</strong></li>
-<li>🔹 3. 503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头 — <strong>爱范儿</strong></li>
+<li>🔹 3. 中国最颠沛流离的地级市，惨遭“除名” — <strong>果壳</strong></li>
+<li>🔹 3. 再破五千大关：苹果 Mac mini M6 国补后京东 4799 元再降价 — <strong>IT之家</strong></li>
 <li>🔹 3. 比“胖五”更能扛！我国新一代载人运载火箭要来了 — <strong>科普中国网</strong></li>
-<li>🔹 3. iPhone 变强了，但我没有 — <strong>少数派</strong></li>
-<li>🔹 3. 苹果表示将开始对公开的 iCloud 链接进行违规内容检查 — <strong>威锋网</strong></li>
-<li>🔹 3. 「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车 — <strong>极客公园</strong></li>
+<li>🔹 3. 苹果产品那些不够颠覆，却值得被学习的细节 — <strong>少数派</strong></li>
+<li>🔹 3. 首个 macOS 27.3 开发者测试版包含一项重要的安全修复 — <strong>威锋网</strong></li>
+<li>🔹 3. 为什么「陪伴」，注定是 Personal AI 的核心 — <strong>极客公园</strong></li>
 <li>🔹 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测 — <strong>36氪</strong></li>
-<li>🔹 3. 比亚迪仰望鼎曜「山河鼎韵」限量版开启预定，定金 30 万元 — <strong>Readhub</strong></li>
-<li>🔹 4. “00后自己的大冰”一夜爆红，迷住700万“爱压抑”的年轻人 — <strong>36氪</strong></li>
-<li>🔹 4. 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替 — <strong>少数派</strong></li>
+<li>🔹 3. 国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施 — <strong>Readhub</strong></li>
+<li>🔹 4. “厉娜，涨了200亿” — <strong>36氪</strong></li>
+<li>🔹 4. 国行 Apple 智能上手：这些功能已经准备好 — <strong>少数派</strong></li>
 <li>🔹 4. 大学生宿舍擦边直播：一门正在变脏的生意 — <strong>虎嗅网</strong></li>
-<li>🔹 4. 进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活 — <strong>果壳</strong></li>
-<li>🔹 4. 苹果 iPhone Duo 折叠屏手机首周销量曝光，三天卖出约 12.46 万台 — <strong>IT之家</strong></li>
-<li>🔹 4. 10 月最值得关注的 17 个产品｜明日产品 WATCHLIST — <strong>爱范儿</strong></li>
+<li>🔹 4. 凌晨2点，在清华实验室，人类能看见的宇宙悄悄变远了 — <strong>果壳</strong></li>
+<li>🔹 4. 央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗 — <strong>IT之家</strong></li>
+<li>🔹 4. 被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原 — <strong>爱范儿</strong></li>
 <li>🔹 4. 5G演进已开始，6G研究正进行 — <strong>科普中国网</strong></li>
-<li>🔹 4. 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探 — <strong>少数派</strong></li>
-<li>🔹 4. 苹果计划在 2027 年让供应商生产 1600 万台 MacBook Neo — <strong>威锋网</strong></li>
-<li>🔹 4. 博世用豆包工作：让工程师少搬信息，多解问题 — <strong>极客公园</strong></li>
+<li>🔹 4. 一个 05 后的个人数码编年史 — <strong>少数派</strong></li>
+<li>🔹 4. 带 Apple 芯片的 Mac 机型也能享受新的“实时活动”功能 — <strong>威锋网</strong></li>
+<li>🔹 4. 创业者做 Personal Agent，有没有一线生机？ — <strong>极客公园</strong></li>
 <li>🔹 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态 — <strong>36氪</strong></li>
-<li>🔹 4. 特斯拉 2027 年年中前将逐步停止 Cybertruck 生产 为 Cybercab 释放产能 — <strong>Readhub</strong></li>
-<li>🔹 5. 字节找到了自己的微信 — <strong>36氪</strong></li>
-<li>🔹 5. 派评 | 近期值得关注的 App — <strong>少数派</strong></li>
+<li>🔹 4. 景芮医疗完成数千万元 Pre-A 轮融资，太朴生命科学投资领投 — <strong>Readhub</strong></li>
+<li>🔹 5. 车载洗脚盆又来了，新能源到底还能多离谱？ — <strong>36氪</strong></li>
+<li>🔹 5. 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验 — <strong>少数派</strong></li>
 <li>🔹 5. 苹果又又又盯上你的钱了 — <strong>虎嗅网</strong></li>
-<li>🔹 5. 为啥把自己裹成一个球，还是冷冷冷冷冷冷？ — <strong>果壳</strong></li>
-<li>🔹 5. 又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统 — <strong>IT之家</strong></li>
-<li>🔹 5. 早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞 — <strong>爱范儿</strong></li>
+<li>🔹 5. 全国约2300万孩子长期受它折磨，却只有3%就医治疗！ — <strong>果壳</strong></li>
+<li>🔹 5. 512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池 — <strong>IT之家</strong></li>
+<li>🔹 5. 最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元 — <strong>爱范儿</strong></li>
 <li>🔹 5. “早期暗能量”或让宇宙年轻10亿岁 — <strong>科普中国网</strong></li>
-<li>🔹 5. 派早报：国务院办公厅发布 2027 年部分节假日放假安排等 — <strong>少数派</strong></li>
-<li>🔹 5. iPadOS 27.3 将 Siri 模式扩展至相机应用 方便用户使用“视觉智能” — <strong>威锋网</strong></li>
-<li>🔹 5. 办公提效之后，企业级 Agent 开始对经营结果负责 — <strong>极客公园</strong></li>
+<li>🔹 5. 苹果表示将开始对公开的 iCloud 链接进行违规内容检查 — <strong>威锋网</strong></li>
+<li>🔹 5. 收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案 — <strong>极客公园</strong></li>
 <li>🔹 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元 — <strong>36氪</strong></li>
-<li>🔹 5. OpenAI CFO：公司正进行融资谈判 估值较 3 月一轮融资近涨 50% — <strong>Readhub</strong></li>
-<li>🔹 6. 存储风暴压顶，小众手机“在劫难逃” — <strong>36氪</strong></li>
+<li>🔹 5. 韩国产业部长：韩方已签约的英伟达 GPU 供应不受影响 — <strong>Readhub</strong></li>
+<li>🔹 6. 百度第三次改搜索框 — <strong>36氪</strong></li>
+<li>🔹 6. 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替 — <strong>少数派</strong></li>
 </ul>
 
 ---
@@ -80,51 +80,51 @@
 | 36氪 | 38 |
 | 威锋网 | 30 |
 | 极客公园 | 30 |
-| 少数派 | 28 |
+| 少数派 | 26 |
 | Readhub | 20 |
 | 虎嗅网 | 15 |
 | IT之家 | 12 |
 | 果壳 | 10 |
-| 爱范儿 | 10 |
+| 爱范儿 | 9 |
 | 科普中国网 | 6 |
 
 ---
 
 ## 📰 完整列表
 
-### 1. 手机形态之争升级：OPPO、vivo集体跟进，阔直板将成下一种主流形态？
+### 1. 8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4058290572039814)
+- 🔗 [原文链接](https://www.36kr.com/p/4061760472585347)
 
-### 1. 你不知道的客户端开发：AI 时代下的选型、原生与借力
+### 1. 开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/117713)
-- 📎 Tw93
+- 🔗 [原文链接](https://sspai.com/post/118546)
+- 📎 waychane
 
 ### 1. 美国巨变
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4903068.html)
-- 📎 74.6万
+- 📎 78.0万
 
-### 1. 凌晨2点，在清华实验室，人类能看见的宇宙悄悄变远了
+### 1. 警惕！！！就算是厄尔尼诺年，断崖降温依然会掏空你的钱包！
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470653/)
+- 🔗 [原文链接](https://www.guokr.com/article/470657/)
 
-### 1. 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里
+### 1. 英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口”
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023827.htm)
-- 📎 228评
+- 🔗 [原文链接](https://m.ithome.com/html/1024031.htm)
+- 📎 383评
 
-### 1. 最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元
+### 1. M6 MacBook Pro 体验：38 块的灵魂，一万五的身体
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688312)
-- 📎 董车会
+- 🔗 [原文链接](https://www.ifanr.com/1688127)
+- 📎 产品
 
 ### 1. 为何太阳系所有行星都在同一平面上旋转？
 
@@ -132,65 +132,65 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210929_3056404.shtml)
 - 📎 新浪科技
 
-### 1. 一个 05 后的个人数码编年史
+### 1. 双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/116750)
-- 📎 星光都死了
+- 🔗 [原文链接](https://sspai.com/post/118612)
+- 📎 水獭Store
 
-### 1. 首个 macOS 27.3 开发者测试版包含一项重要的安全修复
+### 1. Apple Music Classical 4.1 发布：全新的黑白应用图标
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960566)
-- 📎 1066
+- 🔗 [原文链接](https://www.feng.com/post/13960761)
+- 📎 926
 
-### 1. 创业者做 Personal Agent，有没有一线生机？
+### 1. 黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373650)
+- 🔗 [原文链接](http://www.geekpark.net/news/373687)
 
 ### 1. 周大福周生生老庙金饰集体上涨8-10元左右
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926062342896005?f=rss)
 
-### 1. 围绕三大核心主线 一周逾 550 家上市公司迎来投资者调研
+### 1. 假冒食品运输车中途截走货物，英伟达承运商现低级漏洞
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xsZipb0HZK)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuGna1uioa)
 
-### 2. Anthropic最强Model 4首次曝光：RSI狂飙2倍速
+### 2. 爆火的《持械入宋》里，AI  找到了爱它的观众
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4058973865825161)
+- 🔗 [原文链接](https://www.36kr.com/p/4060438177698692)
 
-### 2. 国行 Apple 智能上手：这些功能已经准备好
+### 2. 新玩意 255｜少数派的编辑们最近买了啥？
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118404)
-- 📎 宛潼
+- 🔗 [原文链接](https://sspai.com/post/118541)
+- 📎 少数派编辑部
 
 ### 2. 腾讯憋了个大招，就这？
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4899986.html)
-- 📎 59.9万
+- 📎 61.2万
 
-### 2. 全国约2300万孩子长期受它折磨，却只有3%就医治疗！
+### 2. 人在水里会变成可怜的睁眼瞎，这个邪修方法可以避免
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470651/)
+- 🔗 [原文链接](https://www.guokr.com/article/470656/)
 
-### 2. 小米 18 标准版手机通过 3C 认证，支持 100W 快充
+### 2. 苹果 iPhone 18/18e 系列机型 X 光图曝光：两款手机共用部分模具，搭 4430mAh 电池
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023652.htm)
-- 📎 166评
+- 🔗 [原文链接](https://m.ithome.com/html/1023896.htm)
+- 📎 173评
 
-### 2. 早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票
+### 2. 早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688251)
+- 🔗 [原文链接](https://www.ifanr.com/1688379)
 - 📎 早报
 
 ### 2. 我国学者揭示早期宇宙星际间重元素起源之谜
@@ -199,60 +199,60 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210929_3056402.shtml)
 - 📎 中国科学报
 
-### 2. 带 Apple 芯片的 Mac 机型也能享受新的“实时活动”功能
+### 2. 派早报：特斯拉将停产 Cybertruck
+
+- 🏷️ 来源：少数派
+- 🔗 [原文链接](https://sspai.com/post/118805)
+- 📎 少数派编辑部
+
+### 2. 明年开始 iPhone 上的“操作按钮”或与“相机控制”功能合并
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960565)
-- 📎 1387
+- 🔗 [原文链接](https://www.feng.com/post/13960760)
+- 📎 886
 
-### 2. 收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案
+### 2. 具身智能，也到了 API 时刻？
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373649)
+- 🔗 [原文链接](http://www.geekpark.net/news/373683)
 
 ### 2. 马斯克称硬件制造除中国外无对手，将用火箭技术造数据中心
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926058785994880?f=rss)
 
-### 2. 比尔盖茨谈亿万富翁税：贫富差距不能指望靠慈善捐赠解决
+### 2. 北交所开市五周年市场规模壮大 业内呼吁完善长期资金配置渠道
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xrZuiobb00)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuLouZZ8kp)
 
-### 3. 9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿
+### 3. 九成代码AI写，谁来审？Claude Code亮出6道关卡！
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4058997417563266)
+- 🔗 [原文链接](https://www.36kr.com/p/4060672855757954)
 
-### 3. 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验
+### 3. 你不知道的客户端开发：AI 时代下的选型、原生与借力
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118263)
-- 📎 waychane
+- 🔗 [原文链接](https://sspai.com/post/117713)
+- 📎 Tw93
 
 ### 3. 哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4902262.html)
-- 📎 55.6万
+- 📎 57.3万
 
-### 3. 又是投毒！32岁中国博士答辩失利，给同门下毒致其神经受损，这种试剂每个实验室都有
+### 3. 中国最颠沛流离的地级市，惨遭“除名”
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470650/)
+- 🔗 [原文链接](https://www.guokr.com/article/470655/)
 
-### 3. 5999 → 2339 元：小米 MIX Flip 2 小折叠手机新低，骁龙 8 至尊版 + 双 VC 立体散热
+### 3. 再破五千大关：苹果 Mac mini M6 国补后京东 4799 元再降价
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023789.htm)
-- 📎 134评
-
-### 3. 503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头
-
-- 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688195)
-- 📎 董车会
+- 🔗 [原文链接](https://m.ithome.com/html/1023979.htm)
+- 📎 135评
 
 ### 3. 比“胖五”更能扛！我国新一代载人运载火箭要来了
 
@@ -260,65 +260,65 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210929_3056400.shtml)
 - 📎 科技日报
 
-### 3. iPhone 变强了，但我没有
+### 3. 苹果产品那些不够颠覆，却值得被学习的细节
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118250)
-- 📎 张奕源Nick
+- 🔗 [原文链接](https://sspai.com/post/118114)
+- 📎 CG艺术实验室
 
-### 3. 苹果表示将开始对公开的 iCloud 链接进行违规内容检查
+### 3. 首个 macOS 27.3 开发者测试版包含一项重要的安全修复
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960458)
-- 📎 1862
+- 🔗 [原文链接](https://www.feng.com/post/13960566)
+- 📎 1605
 
-### 3. 「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车
+### 3. 为什么「陪伴」，注定是 Personal AI 的核心
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373647)
+- 🔗 [原文链接](http://www.geekpark.net/news/373653)
 
 ### 3. 微盟WAI升级为"微盟星元"，开启AI原生经营系统内测
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926051415161218?f=rss)
 
-### 3. 比亚迪仰望鼎曜「山河鼎韵」限量版开启预定，定金 30 万元
+### 3. 国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xrudFuWOxf)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuLmDbjs7N)
 
-### 4. “00后自己的大冰”一夜爆红，迷住700万“爱压抑”的年轻人
+### 4. “厉娜，涨了200亿”
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4059001890444163)
+- 🔗 [原文链接](https://www.36kr.com/p/4060850581886088)
 
-### 4. 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替
+### 4. 国行 Apple 智能上手：这些功能已经准备好
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118317)
-- 📎 Matrix机器人
+- 🔗 [原文链接](https://sspai.com/post/118404)
+- 📎 宛潼
 
 ### 4. 大学生宿舍擦边直播：一门正在变脏的生意
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4902210.html)
-- 📎 49.4万
+- 📎 51.5万
 
-### 4. 进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活
+### 4. 凌晨2点，在清华实验室，人类能看见的宇宙悄悄变远了
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470643/)
+- 🔗 [原文链接](https://www.guokr.com/article/470653/)
 
-### 4. 苹果 iPhone Duo 折叠屏手机首周销量曝光，三天卖出约 12.46 万台
+### 4. 央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023798.htm)
-- 📎 268评
+- 🔗 [原文链接](https://m.ithome.com/html/1023996.htm)
+- 📎 217评
 
-### 4. 10 月最值得关注的 17 个产品｜明日产品 WATCHLIST
+### 4. 被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688060)
+- 🔗 [原文链接](https://www.ifanr.com/1688364)
 - 📎 产品
 
 ### 4. 5G演进已开始，6G研究正进行
@@ -327,66 +327,66 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210928_3054565.shtml)
 - 📎 光明日报
 
-### 4. 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探
+### 4. 一个 05 后的个人数码编年史
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118570)
-- 📎 张奕源Nick
+- 🔗 [原文链接](https://sspai.com/post/116750)
+- 📎 星光都死了
 
-### 4. 苹果计划在 2027 年让供应商生产 1600 万台 MacBook Neo
+### 4. 带 Apple 芯片的 Mac 机型也能享受新的“实时活动”功能
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960457)
-- 📎 1486
+- 🔗 [原文链接](https://www.feng.com/post/13960565)
+- 📎 2022
 
-### 4. 博世用豆包工作：让工程师少搬信息，多解问题
+### 4. 创业者做 Personal Agent，有没有一线生机？
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373643)
+- 🔗 [原文链接](http://www.geekpark.net/news/373650)
 
 ### 4. 早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/p/3926013599086727?f=rss)
 
-### 4. 特斯拉 2027 年年中前将逐步停止 Cybertruck 生产 为 Cybercab 释放产能
+### 4. 景芮医疗完成数千万元 Pre-A 轮融资，太朴生命科学投资领投
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xq2tTNbbE2)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuAhrXDsDP)
 
-### 5. 字节找到了自己的微信
+### 5. 车载洗脚盆又来了，新能源到底还能多离谱？
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4058967688156293)
+- 🔗 [原文链接](https://www.36kr.com/p/4061179656606601)
 
-### 5. 派评 | 近期值得关注的 App
+### 5. 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118240)
-- 📎 少数派编辑部
+- 🔗 [原文链接](https://sspai.com/post/118263)
+- 📎 waychane
 
 ### 5. 苹果又又又盯上你的钱了
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4902658.html)
-- 📎 48.1万
+- 📎 48.8万
 
-### 5. 为啥把自己裹成一个球，还是冷冷冷冷冷冷？
+### 5. 全国约2300万孩子长期受它折磨，却只有3%就医治疗！
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470642/)
+- 🔗 [原文链接](https://www.guokr.com/article/470651/)
 
-### 5. 又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统
+### 5. 512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023828.htm)
-- 📎 115评
+- 🔗 [原文链接](https://m.ithome.com/html/1023932.htm)
+- 📎 232评
 
-### 5. 早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞
+### 5. 最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688032)
-- 📎 早报
+- 🔗 [原文链接](https://www.ifanr.com/1688312)
+- 📎 董车会
 
 ### 5. “早期暗能量”或让宇宙年轻10亿岁
 
@@ -394,66 +394,60 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210928_3054506.shtml)
 - 📎 科技日报
 
-### 5. 派早报：国务院办公厅发布 2027 年部分节假日放假安排等
-
-- 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118587)
-- 📎 少数派编辑部
-
-### 5. iPadOS 27.3 将 Siri 模式扩展至相机应用 方便用户使用“视觉智能”
+### 5. 苹果表示将开始对公开的 iCloud 链接进行违规内容检查
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960342)
-- 📎 2571
+- 🔗 [原文链接](https://www.feng.com/post/13960458)
+- 📎 2330
 
-### 5. 办公提效之后，企业级 Agent 开始对经营结果负责
+### 5. 收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373642)
+- 🔗 [原文链接](http://www.geekpark.net/news/373649)
 
 ### 5. 宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926038167877767?f=rss)
 
-### 5. OpenAI CFO：公司正进行融资谈判 估值较 3 月一轮融资近涨 50%
+### 5. 韩国产业部长：韩方已签约的英伟达 GPU 供应不受影响
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqLSYkRqAF)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuIZkiINnh)
 
-### 6. 存储风暴压顶，小众手机“在劫难逃”
+### 6. 百度第三次改搜索框
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4059027988812929)
+- 🔗 [原文链接](https://www.36kr.com/p/4060419503921026)
 
-### 6. Disc Image Studio：你想不想在光盘上「画」点什么？
+### 6. 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118211)
-- 📎 Catho168
+- 🔗 [原文链接](https://sspai.com/post/118317)
+- 📎 Matrix机器人
 
-### 6. 这个看似自律的好习惯，正在耗尽你的能量
+### 6. 理发店这个生意感觉比饭店还惨
 
 - 🏷️ 来源：虎嗅网
-- 🔗 [原文链接](https://www.huxiu.com/article/4902185.html)
-- 📎 47.7万
+- 🔗 [原文链接](https://www.huxiu.com/article/4902240.html)
+- 📎 39.0万
 
-### 6. 半夜总有啃咬声，是谁在吃我的云南豆荚娃娃？
+### 6. 又是投毒！32岁中国博士答辩失利，给同门下毒致其神经受损，这种试剂每个实验室都有
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470638/)
+- 🔗 [原文链接](https://www.guokr.com/article/470650/)
 
-### 6. 小米澎湃 HyperOS 4 近期修复进展公布，Xiaomi 17 系列手机多个问题优化
+### 6. 曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023760.htm)
-- 📎 133评
+- 🔗 [原文链接](https://m.ithome.com/html/1023879.htm)
+- 📎 104评
 
-### 6. 13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架
+### 6. 早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688332)
-- 📎 董车会
+- 🔗 [原文链接](https://www.ifanr.com/1688251)
+- 📎 早报
 
 ### 6. 5G、大数据、人工智能，看看现代交通的创新元素
 
@@ -461,305 +455,311 @@
 - 🔗 [原文链接](https://www.kepuchina.cn/more/202109/t20210928_3054505.shtml)
 - 📎 新华网
 
-### 6. 开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验
+### 6. iPhone 变强了，但我没有
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118546)
-- 📎 waychane
+- 🔗 [原文链接](https://sspai.com/post/118250)
+- 📎 张奕源Nick
 
-### 6. iOS 27.3 首个 Beta 发布：Apple 智能正式登陆国行设备
+### 6. 苹果计划在 2027 年让供应商生产 1600 万台 MacBook Neo
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960340)
-- 📎 3045
+- 🔗 [原文链接](https://www.feng.com/post/13960457)
+- 📎 1934
 
-### 6. 马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道
+### 6. 「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373639)
+- 🔗 [原文链接](http://www.geekpark.net/news/373647)
 
 ### 6. 小米申请注册澎程N70商标
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926029000013956?f=rss)
 
-### 6. 部分 Anthropic 投资者下修其 IPO 估值 或低于 1.5 万亿美元
+### 6. SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqXEinVxZc)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuGm3AU5hS)
 
-### 7. DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了
+### 7. 别再拿《影之刃零》对比《黑神话》了
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4057774236652417)
+- 🔗 [原文链接](https://www.36kr.com/p/4060592010515333)
 
-### 7. TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验
-
-- 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118122)
-- 📎 KingTsui
-
-### 7. 理发店这个生意感觉比饭店还惨
-
-- 🏷️ 来源：虎嗅网
-- 🔗 [原文链接](https://www.huxiu.com/article/4902240.html)
-- 📎 38.0万
-
-### 7. HYROX已经超过越野跑，成为2026最热运动了？
-
-- 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470634/)
-
-### 7. 肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查
-
-- 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023663.htm)
-- 📎 45评
-
-### 7. MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南
-
-- 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1687989)
-- 📎 产品
-
-### 7. 新玩意 255｜少数派的编辑们最近买了啥？
+### 7. 派评 | 近期值得关注的 App
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118541)
+- 🔗 [原文链接](https://sspai.com/post/118240)
 - 📎 少数派编辑部
 
-### 7. 特努斯：苹果目前无法满足“iPhone Duo”的市场需求
+### 7. 豆包，被字节另一款APP超越了
+
+- 🏷️ 来源：虎嗅网
+- 🔗 [原文链接](https://www.huxiu.com/article/4902871.html)
+- 📎 35.5万
+
+### 7. 进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活
+
+- 🏷️ 来源：果壳
+- 🔗 [原文链接](https://www.guokr.com/article/470643/)
+
+### 7. 苹果首款折叠屏手机 iPhone Duo“裂屏门”追踪：消息称系供应商原材料问题
+
+- 🏷️ 来源：IT之家
+- 🔗 [原文链接](https://m.ithome.com/html/1023923.htm)
+- 📎 157评
+
+### 7. 503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头
+
+- 🏷️ 来源：爱范儿
+- 🔗 [原文链接](https://www.ifanr.com/1688195)
+- 📎 董车会
+
+### 7. 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探
+
+- 🏷️ 来源：少数派
+- 🔗 [原文链接](https://sspai.com/post/118570)
+- 📎 张奕源Nick
+
+### 7. iPadOS 27.3 将 Siri 模式扩展至相机应用 方便用户使用“视觉智能”
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960231)
-- 📎 3464
+- 🔗 [原文链接](https://www.feng.com/post/13960342)
+- 📎 2998
 
-### 7. 估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对
+### 7. 博世用豆包工作：让工程师少搬信息，多解问题
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373637)
+- 🔗 [原文链接](http://www.geekpark.net/news/373643)
 
 ### 7. 韩国检方调查石化企业涉嫌价格串通，LG化学等7家公司遭搜查
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926018347595906?f=rss)
 
-### 7. 圆通总裁潘水苗谈其子潘天鸿：一年飞 40 万公里十分辛苦
+### 7. AI 制药并购升温 符合要求的标的十分稀缺
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqGpaPKBWG)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuCqdYOi8C)
 
-### 8. 成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发
+### 8. 无预警，OpenAI 突然大规模封号
 
 - 🏷️ 来源：36氪
-- 🔗 [原文链接](https://www.36kr.com/p/4052696726328452)
+- 🔗 [原文链接](https://www.36kr.com/p/4059618356089985)
 
-### 8. 本月玩什么｜影之刃零、战争机器：事变日等
+### 8. Disc Image Studio：你想不想在光盘上「画」点什么？
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/117960)
-- 📎 板斧
+- 🔗 [原文链接](https://sspai.com/post/118211)
+- 📎 Catho168
 
 ### 8. 沃尔沃XC70落地不到20万元，销售称“卖一辆要亏两万多”
 
 - 🏷️ 来源：虎嗅网
 - 🔗 [原文链接](https://www.huxiu.com/article/4902987.html)
-- 📎 34.2万
+- 📎 35.0万
 
-### 8. 拖着死对头的尸体走了好几天，还顶着一颗烂脑袋过冬
+### 8. 为啥把自己裹成一个球，还是冷冷冷冷冷冷？
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470632/)
+- 🔗 [原文链接](https://www.guokr.com/article/470642/)
 
-### 8. 安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕
+### 8. 微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023829.htm)
-- 📎 159评
+- 🔗 [原文链接](https://m.ithome.com/html/1023877.htm)
+- 📎 122评
 
-### 8. 23.98 万元起！智己 LS8 NEO 正式上市，转向刹车全面线控
+### 8. 10 月最值得关注的 17 个产品｜明日产品 WATCHLIST
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688228)
-- 📎 董车会
+- 🔗 [原文链接](https://www.ifanr.com/1688060)
+- 📎 产品
 
-### 8. 不用困在厨房也能做出好饭：三十道省事家常蒸菜
+### 8. 派早报：国务院办公厅发布 2027 年部分节假日放假安排等
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118346)
-- 📎 潘誉晗
+- 🔗 [原文链接](https://sspai.com/post/118587)
+- 📎 少数派编辑部
 
-### 8. 苹果探索以更低成本制造新 MacBook Pro OLED 技术的方法
+### 8. iOS 27.3 首个 Beta 发布：Apple 智能正式登陆国行设备
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960226)
-- 📎 423
+- 🔗 [原文链接](https://www.feng.com/post/13960340)
+- 📎 3512
 
-### 8. AI 时代没有标准答案的问题，我们面对面聊
+### 8. 办公提效之后，企业级 Agent 开始对经营结果负责
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373636)
+- 🔗 [原文链接](http://www.geekpark.net/news/373642)
 
 ### 8. SpaceX拟建地面基础设施与卫星网络互补，向美国电信三巨头发起挑战
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926009821182086?f=rss)
 
-### 8. 苹果：超 10 万款应用已适配 iPhone Duo 折叠屏手机
+### 8. 中指研究院：前 10 月全国法拍房市场成交总金额同比增长 19%
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqpSw0qDXG)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuKN3lD6sT)
 
-### 9. 一图流 | 一张图看懂中国版 Apple 智能
+### 9. TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/117953)
-- 📎 少数派编辑部
+- 🔗 [原文链接](https://sspai.com/post/118122)
+- 📎 KingTsui
 
-### 9. 豆包，被字节另一款APP超越了
+### 9. 在农村，穷家娇子越来越多了
 
 - 🏷️ 来源：虎嗅网
-- 🔗 [原文链接](https://www.huxiu.com/article/4902871.html)
-- 📎 34.1万
+- 🔗 [原文链接](https://www.huxiu.com/article/4903114.html)
+- 📎 34.7万
 
-### 9. 已发现四种可以传染的癌症，挑战了我们对癌症的认知
+### 9. 半夜总有啃咬声，是谁在吃我的云南豆荚娃娃？
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470631/)
+- 🔗 [原文链接](https://www.guokr.com/article/470638/)
 
-### 9. 华为畅享 100 系列手机首销情况曝光：总量约 21.5 万台，Pro Max 机型约占 60%
+### 9. 打破 13 年魔咒！BLG 战队 3:1 战胜 T1 挺进《英雄联盟》S16 决赛，Faker 无缘四连冠
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023780.htm)
-- 📎 200评
+- 🔗 [原文链接](https://m.ithome.com/html/1024051.htm)
+- 📎 274评
 
-### 9. 你记忆里的那台两座小车回来了！smart #2 上市，9.99 万元起
+### 9. 早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1688208)
-- 📎 董车会
+- 🔗 [原文链接](https://www.ifanr.com/1688032)
+- 📎 早报
 
-### 9. Apple 官网排版细节鉴赏
-
-- 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/115399)
-- 📎 SkyWT
-
-### 9. 苹果在开发一款更大 具备机器人功能的 HomeView 设备
+### 9. 特努斯：苹果目前无法满足“iPhone Duo”的市场需求
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960119)
-- 📎 2638
+- 🔗 [原文链接](https://www.feng.com/post/13960231)
+- 📎 3952
 
-### 9. 中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber
+### 9. 马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373554)
+- 🔗 [原文链接](http://www.geekpark.net/news/373639)
 
 ### 9. 36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/p/3926003098843272?f=rss)
 
-### 9. Meta 首席战略官离职 出任 AI 初创公司 Fireworks CFO
+### 9. 苹果 Siri 全面跨应用 AI 控制功能预计延期至 2027 年春预览推出
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqykrUIsVh)
+- 🔗 [原文链接](https://readhub.cn/topic/8xu9zrhUfwq)
 
-### 10. 本周看什么 | 最近值得一看的 9 部作品
+### 10. 本月玩什么｜影之刃零、战争机器：事变日等
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/117867)
-- 📎 少数派编辑部
+- 🔗 [原文链接](https://sspai.com/post/117960)
+- 📎 板斧
 
-### 10. 在农村，穷家娇子越来越多了
+### 10. 她花3年研究40个女富豪，发现酒桌上没有大女主
 
 - 🏷️ 来源：虎嗅网
-- 🔗 [原文链接](https://www.huxiu.com/article/4903114.html)
-- 📎 33.9万
+- 🔗 [原文链接](https://www.huxiu.com/article/4902598.html)
+- 📎 33.5万
 
-### 10. 被马斯克“始乱终弃”，NASA的登月大计乱了
+### 10. HYROX已经超过越野跑，成为2026最热运动了？
 
 - 🏷️ 来源：果壳
-- 🔗 [原文链接](https://www.guokr.com/article/470629/)
+- 🔗 [原文链接](https://www.guokr.com/article/470634/)
 
-### 10. 基于华为星迹定位技术：百度地图鸿蒙版专属室内导航功能上新，首批支持全国 22 个城市
+### 10. 208 万元！比亚迪仰望鼎曜「山河鼎韵」限量版车型价格揭晓
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023790.htm)
-- 📎 98评
+- 🔗 [原文链接](https://m.ithome.com/html/1023918.htm)
+- 📎 146评
 
-### 10. Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感
+### 10. 13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架
 
 - 🏷️ 来源：爱范儿
-- 🔗 [原文链接](https://www.ifanr.com/1687834)
-- 📎 产品
+- 🔗 [原文链接](https://www.ifanr.com/1688332)
+- 📎 董车会
 
-### 10. 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等
-
-- 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/118498)
-- 📎 少数派编辑部
-
-### 10. 苹果计划在 2027 年上半年发布新款 iPad Air 和 iPad Pro
+### 10. 苹果探索以更低成本制造新 MacBook Pro OLED 技术的方法
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13960118)
-- 📎 3079
+- 🔗 [原文链接](https://www.feng.com/post/13960226)
+- 📎 823
 
-### 10. 极客公园创新大会 2027 首批嘉宾揭晓！
+### 10. 估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373553)
+- 🔗 [原文链接](http://www.geekpark.net/news/373637)
 
 ### 10. Qwen-Image-3.0上线千问AI平台
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926001579980936?f=rss)
 
-### 10. 加州亿万富豪税提案公投或被否决 全美富豪税推进遇挫
+### 10. 国家统计局：10 月份 CPI 同比继续上涨 PPI 环比涨幅回落
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xqzp272zpS)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuHAHaBAgA)
 
-### 11. 新玩意 254｜少数派的编辑们最近买了啥？
+### 11. 一图流 | 一张图看懂中国版 Apple 智能
 
 - 🏷️ 来源：少数派
-- 🔗 [原文链接](https://sspai.com/post/117791)
+- 🔗 [原文链接](https://sspai.com/post/117953)
 - 📎 少数派编辑部
 
-### 11. 她花3年研究40个女富豪，发现酒桌上没有大女主
+### 11. 全美49个州爆发抗议
 
 - 🏷️ 来源：虎嗅网
-- 🔗 [原文链接](https://www.huxiu.com/article/4902598.html)
-- 📎 32.8万
+- 🔗 [原文链接](https://www.huxiu.com/article/4902718.html)
+- 📎 30.4万
 
-### 11. 比亚迪仰望鼎曜超豪华行政旗舰轿车官图发布：对开车门带雨伞、四座布局后排设香槟杯座
+### 11. 比亚迪李柯回应收购玛莎拉蒂传闻：或许几年前兴趣更高，但现在我们已经走出属于自己的道路
 
 - 🏷️ 来源：IT之家
-- 🔗 [原文链接](https://m.ithome.com/html/1023820.htm)
-- 📎 127评
+- 🔗 [原文链接](https://m.ithome.com/html/1023894.htm)
+- 📎 104评
 
-### 11. Xcode 27.2 披露新 Apple TV 4K 和 iPad mini 的 RAM 容量
+### 11. 苹果在开发一款更大 具备机器人功能的 HomeView 设备
 
 - 🏷️ 来源：威锋网
-- 🔗 [原文链接](https://www.feng.com/post/13959980)
-- 📎 4284
+- 🔗 [原文链接](https://www.feng.com/post/13960119)
+- 📎 3026
 
-### 11. 世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一
+### 11. AI 时代没有标准答案的问题，我们面对面聊
 
 - 🏷️ 来源：极客公园
-- 🔗 [原文链接](http://www.geekpark.net/news/373542)
+- 🔗 [原文链接](http://www.geekpark.net/news/373636)
 
 ### 11. 沪深两市成交额突破1万亿元
 
 - 🏷️ 来源：36氪
 - 🔗 [原文链接](https://36kr.com/newsflashes/3926000559814784?f=rss)
 
-### 11. 马斯克评估特斯拉与 SpaceX 合并之际 谷歌高管哈里森离任 SpaceX 独董
+### 11. 三优生物完成近亿元 C 轮融资，获清科产投独家投资
 
 - 🏷️ 来源：Readhub
-- 🔗 [原文链接](https://readhub.cn/topic/8xr4pJ3em1P)
+- 🔗 [原文链接](https://readhub.cn/topic/8xuH8TAArjZ)
+
+### 12. 本周看什么 | 最近值得一看的 9 部作品
+
+- 🏷️ 来源：少数派
+- 🔗 [原文链接](https://sspai.com/post/117867)
+- 📎 少数派编辑部
+
+### 12. 永别了，程序员
+
+- 🏷️ 来源：虎嗅网
+- 🔗 [原文链接](https://www.huxiu.com/article/4903060.html)
+- 📎 30.0万
+
+### 12. 英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行
+
+- 🏷️ 来源：IT之家
+- 🔗 [原文链接](https://m.ithome.com/html/1024040.htm)
+- 📎 90评
 
 ---
 
